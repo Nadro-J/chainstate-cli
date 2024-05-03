@@ -3,11 +3,11 @@ Interact with the Polkadot/Kusama blockchain via SubstrateInterface
 
 ## CLI
 
->| Argument                  | Default                        | Requires Value     | Description           |
->|---------------------------|--------------------------------|--------------------|-----------------------|
->| --url                     | wss://rpc.ibp.network/polkadot | :x:                | RPC url               | 
->| --ref_caller              | None                           | :heavy_check_mark: | Referendum Index      |
->| --call_data               | False                          | :heavy_check_mark: | Get encoded call data |
+| Argument                  | Default                        | Requires Value     | Description           |
+|---------------------------|--------------------------------|--------------------|-----------------------|
+| --url                     | wss://rpc.ibp.network/polkadot | :x:                | RPC url               | 
+| --ref_caller              | None                           | :heavy_check_mark: | Referendum Index      |
+| --call_data               | False                          | :heavy_check_mark: | Get encoded call data |
 
 ### ref_caller
 > .\chainstate.py --url wss://rpc.ibp.network/polkadot --ref_caller 707 --call_data
