@@ -1,7 +1,7 @@
 # chainstate-cli
 Interact with the Polkadot/Kusama blockchain via SubstrateInterface
 
-## Feature Comparison
+## CLI
 
 | Argument            | Default                        | Requires Value     |
 |---------------------|--------------------------------|--------------------|
