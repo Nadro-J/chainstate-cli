@@ -1,0 +1,980 @@
+{
+    "7N4h9LYifu1Api82KE95VykR92bmHWS59RHgU5JPmyGJVoaA": [
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "7NyoccQ31NULj2KsBwmCNAMGZoEuBCEyrKja3dBaX44vu7iK",
+            "proxy_type": "Governance",
+            "delay": 0
+        },
+        {
+            "delegate": "7NyoccQ31NULj2KsBwmCNAMGZoEuBCEyrKja3dBaX44vu7iK",
+            "proxy_type": "Transfer",
+            "delay": 0
+        }
+    ],
+    "7NA2QYbRLLcKKcGFNtMJJwKobstBqrfS61U1oTzCNvghdMJL": [
+        {
+            "delegate": "7N8wP2NkVymiNXkcVQ4msV7MSpyxdhr5tAKQ4hSBc7CLKYfp",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7NDWs1Pa9GZr3kGcbgKqNGZieuYMb7Hf5HwxEKVcQ8DxtNyy": [
+        {
+            "delegate": "7J7K1Vg9VKpL4UoRHaQDLUpFEqTQdXWKzpviv59mjUMkFDjf",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7LfXyENftDa8XRBagp5cpBX5ub6FmQuBypnmkf47GKKc2Ueb": [
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "7MdJDT3Sata9Qmahb9f7hZLwUgw8qnkmMnCdPosuJBAtZyrD",
+            "proxy_type": "Governance",
+            "delay": 0
+        },
+        {
+            "delegate": "7MdJDT3Sata9Qmahb9f7hZLwUgw8qnkmMnCdPosuJBAtZyrD",
+            "proxy_type": "Transfer",
+            "delay": 0
+        }
+    ],
+    "7KhHWF9v2G1oaMo8WRcP6RRMYHLm22tYsrxFLXzzWNxD5qnF": [
+        {
+            "delegate": "7JtEf1oxTcAaCt3mkBsdTcgmKfW1qdkrmrPWLDNp19gfHG23",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7NCCZwMjvXyNvotbAzHReiPRJuqCrgTPqwtkRBjYjDDT3Bpu": [
+        {
+            "delegate": "7K1Zohk5xd5fkq2HrS92UgYqN3YozH5FevL16BmZwXTazfLa",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7MZ7r1nnrT1gcqurgyJWy94ZuhPwEcLzkwwmHZvu5HoYwArT": [
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "7MVDwSMdV429hCAAqpHSPrJjmD1WtLiSJq38ggx8Z976rjNE",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7MRYTUrRapmB3TDVAyWqX3mXCm3pKnNLRkcsa7LSSqrNWu2s": [
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "7N4k7jbq2ciS5haWhiU4kZNBiijvmKZy2MieWmjq4K5YuEST",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7KJnkLZLLVA8ZHvunknAJbtk7pLzjSzQgSytcKPUhPM3Pa7X": [
+        {
+            "delegate": "7HpndwwaxxgdZredbGVeZeqHHWdahE6bmds624e6T3cwH72q",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7N6bqExwg6FUFr5R7bXXEREHmzZyLPrsrEYULdMMhVBomWuD": [
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "7MJwLiQ5HYzoCWxBR2nQAB1eqRtu52pGCVemX1svTP6fso86",
+            "proxy_type": "Governance",
+            "delay": 0
+        },
+        {
+            "delegate": "7MJwLiQ5HYzoCWxBR2nQAB1eqRtu52pGCVemX1svTP6fso86",
+            "proxy_type": "Transfer",
+            "delay": 0
+        }
+    ],
+    "7NE74MEinSekM1BxoCDzVttFRn8S7iKukUryWnXo7Fr9yurg": [
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "7NSQ6vyzsy9nGMJMeCAsVNU7TpLe7o8UvnvQFroSUnSEthNw",
+            "proxy_type": "Governance",
+            "delay": 0
+        },
+        {
+            "delegate": "7NSQ6vyzsy9nGMJMeCAsVNU7TpLe7o8UvnvQFroSUnSEthNw",
+            "proxy_type": "Transfer",
+            "delay": 0
+        }
+    ],
+    "7LqjNCvrxnAqwK8aq243YRL5SV741e7a1g5oxeuMX6vsfrkZ": [
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7NEiSgkvSFVWQ9eX1b89T9K1ewhGRDYtLZweqsZkYs8UUGcy": [
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "7LxXtqFUGXjmyTmZusLFaNGYtMoPb6qpe9hkL5TVcY1tvSN2",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7NQaehNTaRGkvbY7RYYTL7nEbDHQNco8M64KCqr9QA5sFqt2": [
+        {
+            "delegate": "7Nu5W9f84HaLJZUgJYzq6QzzjfqzjJFp3icy3jJKuyqNtHqJ",
+            "proxy_type": "Governance",
+            "delay": 0
+        }
+    ],
+    "7Np78qGJ9BS1ghcumZQq8PtPC9aZv9veZUuSUdi33xn7uRzE": [
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7Kyf33bxoE69149CCL3u3J6xKhqg7euDveddNPDf22EAbLmz": [
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "7KxUhYAPm2BHoaXSj3DZDRpio9a3jT83x2x3QiVkLtvRdE3J",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7N5SXzLZGXuNXBds3jEt5yx9n1Ze5a6JYLhawQ8sKVvxBAWj": [
+        {
+            "delegate": "7K9EjjVjzJaTK2LmJ11EkST8ztvQztCqXpvGKXyHVcGc73ZM",
+            "proxy_type": "Governance",
+            "delay": 0
+        },
+        {
+            "delegate": "7K9EjjVjzJaTK2LmJ11EkST8ztvQztCqXpvGKXyHVcGc73ZM",
+            "proxy_type": "Transfer",
+            "delay": 0
+        },
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "7MAkatrsSM4rkgRuXoKZgXJHk2hm7Vb78DKus521JPBmS7wx",
+            "proxy_type": "Governance",
+            "delay": 0
+        },
+        {
+            "delegate": "7MAkatrsSM4rkgRuXoKZgXJHk2hm7Vb78DKus521JPBmS7wx",
+            "proxy_type": "Transfer",
+            "delay": 0
+        }
+    ],
+    "7KbVqh1RCWxBubbK1WUU4LbkcuGimxEkan57xjBT2ifrLFay": [
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "7KQfmc3kQUDae7VAfnbmopswpfoUyiaQmFxYKm5JewJJbRGB",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7LTquE6cymoaGBbpQMgBZ53xnufzwFdtqbn5fweQhNTUCfYh": [
+        {
+            "delegate": "7NZNF4SY7osKi3XLdUcLbbihhXPGikndM3LgXcdt4eFBziQe",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7PMn6mwHfrfjZzypkdh9gpKVMoRuznKv7d64ipxpf7Myx1oz": [
+        {
+            "delegate": "7LuHpYS8R1EQTbZhNVmnjNAnv3BUKAxSTzjUCVbPbg9Hgm9Z",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7LDTwA1fLNUosSQnm6zdY3exYSNRNer61dTkgTtZTgTwBncJ": [
+        {
+            "delegate": "7Ng3XpdQXt5X9uRj2TJT2h6ist2peAA6KdBp4V41dSB6dm26",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7HvB3NaBtHQSd43CNv46y1uawtQKisJbBonEQXHTr8WAmpYB": [
+        {
+            "delegate": "7M51Zf1Mzbe15YcwB67ipQHF4eQ5ngrn4fdUyLG8qUFGQXdT",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7NcbvVjyK2y8MePNYV6cT9dsZKPRaVq6KAktqUc9hQ1JqNpE": [
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "7N4k7jbq2ciS5haWhiU4kZNBiijvmKZy2MieWmjq4K5YuEST",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7LnRCDKJfuRAhvdPgGfQpEMXCNvPQ1Ma9TqdL1AEBFiMtvpP": [
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "7MMyMTvsGX3LJ9jbztic74snhQPEqVwG8axuoLUU3EUqGhfi",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7JXgcxnwQWBYHuyN9ZcBZftggNhmqqvoihP9qBTTQF43pq9L": [
+        {
+            "delegate": "7K1XXatiwsc4XKYr1MBaTmYqNdhNRcFVXzT3RvNPjoaoSVnA",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7KV6FZ2FKDCsSub3U8nipCdUgYoiGWxmu9k8nm9T2dHN2Y4q": [
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7HfywJJpU1v4NSPoK5QmhtbMZHSNhmkh7cAkxBQ9aa3EQQhg": [
+        {
+            "delegate": "7Hsq5RH9xUtPWFZMGXtoVWNd4CEjpJWsidf7bcGwNwdxp9Ha",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "7Je8sHaNPK5cH7zBJWqkxsjiNsCW23dJzBf4V2J4ZhdAg9Un",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "7N4rCtkkwsSiC3KvA8vqjw8p5ArGCR2K8mN54Nigurj75RA3",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7KPuEE8U4mEPJX3k5wnkUHowZWYTQZmqKNwF3NMmQy94UXQx": [
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "7Ksjzrtyjs5pDHoDwtY5ttHFkiSpmtGs8AE3JWXBH4gtvMXE",
+            "proxy_type": "Governance",
+            "delay": 0
+        },
+        {
+            "delegate": "7Ksjzrtyjs5pDHoDwtY5ttHFkiSpmtGs8AE3JWXBH4gtvMXE",
+            "proxy_type": "Transfer",
+            "delay": 0
+        }
+    ],
+    "7LnKF21t9FntzVQj6tTZd1ix5jDyoBWiqbRN5bvrWxoq5bed": [
+        {
+            "delegate": "7JCtkZrBLeCDYkegmpoG9PnY4KZdDNfD3nLaskDGa6V5vSuS",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7KRjc5skDN3c5rgjQqeHbcoSECDqGRCqrUH1GskiqhEgum86": [
+        {
+            "delegate": "7Nz4z6w9JHtP62yFyKZG61h46UEAKwZbXjnKVzUatB8zTMXU",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7P8S4UT3kyyLSXw6f8e9PvCeawPdyxBhE9bbcCbV73hp87cC": [
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "7KeLQc8MCMx4kya8DDmkKRgLjYku3wUJFwqpkiRGYahZy8E8",
+            "proxy_type": "Governance",
+            "delay": 0
+        },
+        {
+            "delegate": "7KeLQc8MCMx4kya8DDmkKRgLjYku3wUJFwqpkiRGYahZy8E8",
+            "proxy_type": "Transfer",
+            "delay": 0
+        }
+    ],
+    "7NgY7e67N33EaRWfShtY1PwLX7qvo1uqzZDBm969nf3NUuch": [
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "7Mx6Gzzz5F1KmvJwnZKqQ6zPgL1UxBTAYshYnxzMZAAWZiQ8",
+            "proxy_type": "Governance",
+            "delay": 0
+        },
+        {
+            "delegate": "7Mx6Gzzz5F1KmvJwnZKqQ6zPgL1UxBTAYshYnxzMZAAWZiQ8",
+            "proxy_type": "Transfer",
+            "delay": 0
+        }
+    ],
+    "7MEDa9njKGm7nfCo1FMwrNRgSvjgLt92sFBdA78G1epesQqj": [
+        {
+            "delegate": "7KHMDw8kV6HYyXgyiJXCrLosdL8A36LQWdB8YXbmviWJxuTh",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7NFwe3m1BTYSqADEXP81t11JppA2zM1uCVVKLuVrat65r4ih": [
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "7Ng3XpdQXt5X9uRj2TJT2h6ist2peAA6KdBp4V41dSB6dm26",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7MPNfGmhWvBCJxfSEDgK4GTKFeLz2BspW6T99fqUGfZsnF7z": [
+        {
+            "delegate": "7Jpi1S9E5hsgiQrP1ovXd4S6gLPofTQEdqkRGiqSNR6cPLQr",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7LRacNeBCZRFx2bigAWgWeCCiRC1rycmgtt5pN5yrD2QKsEP": [
+        {
+            "delegate": "7KdoCgPrF1Xkkemnjk9FsXHXgQYv3jWoGASeWFWy7sqztK7u",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7MGsh5JAtUrXU3fagTJQt46UKds78zw7n1qsCxBC7u3uhW2Y": [
+        {
+            "delegate": "7LsYsfPti2GXoCGNze59sMCpyJr2rJcCPaSDiamn7szrSAh1",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "7P3LBDomKBEEknXZt7nU5MnYZDaw8yc24H91R9fkYN7BRNYb",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7LcF8b5GSvajXkSChhoMFcGDxF9Yn9unRDceZj1Q6NYox8HY": [
+        {
+            "delegate": "7KQx4f7yU3hqZHfvDVnSfe6mpgAT8Pxyr67LXHV6nsbZo3Tm",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7K8Az1Hv8S47RpGr1HPw1foCZUBEKR3Q78YkwKB4JxkbVaRj": [
+        {
+            "delegate": "7JRPpwTGen683SwrLP55x1h791VVqyh6Hftgf4ztseaoc8tg",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7Ny4P9NN2b6pi4CeCwrHc63t7CpvfsrNujp12ohykmMFfhoY": [
+        {
+            "delegate": "7JdxHiBfTMTHXm8DCuhaijyjF2ix6VpDLxrwkvGwBj8uunyk",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7KjuFaZNDBz16fJUm7yp7xmo2EBcoVvBq3Vi9wFqyR3ySVFR": [
+        {
+            "delegate": "7JRSQYe9TBNJcGHhw7y5mHfFvXsxeZQ2yr3RgtStgNtp9zpQ",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7JnvSimcDBqAtChff34z4MuUbdbDAq6KeJrQZtQaNxx7yDgB": [
+        {
+            "delegate": "7HppBPbFRFc2buhCgMDEFCn6L6HFrjuUKX1wWJR3dQiGe1nK",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7Mni7Aanza98iBYwFm7Hp9GR9hxqNRsTphwMcvHMggczNP8Q": [
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7L87bjJVkZ4jjT6BbHPQmd8CuXu261Eeftjz8ZjASFtQtYve": [
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7MgeZp1ftFwsjYhp3YZHeYqYBY9fYgf4jTCFyZuEz3QdfDtt": [
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "7MjSCxU5sqxSa6kxwansMn9hRFmfFE2WxsgQm5nv1va9XwQj",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7LHXywtLKnGUQZNZfAhaBGKhz46Yuabv9UHDnQW1nYgQr3bB": [
+        {
+            "delegate": "7HppBPbFRFc2buhCgMDEFCn6L6HFrjuUKX1wWJR3dQiGe1nK",
+            "proxy_type": "Transfer",
+            "delay": 0
+        }
+    ],
+    "7KmHekhLRx3KkdkPs4PbiUyj16BzLYmSKvsNWgsiXhuZFLHH": [
+        {
+            "delegate": "7J5JT3LbhhBbaYHxfK2kdFBR8fdGU6tHqg5eYK81X3CVGrgX",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7NQWrJ64tvndRksTiXiBQvw1fRNidEXCXFQHsQggGnV5F4rj": [
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "7MQzCvHJHQUesZGubXN6uSkvZ8HMuVcFmCiMmH6UgY2iwKQ1",
+            "proxy_type": "Governance",
+            "delay": 0
+        },
+        {
+            "delegate": "7MQzCvHJHQUesZGubXN6uSkvZ8HMuVcFmCiMmH6UgY2iwKQ1",
+            "proxy_type": "Transfer",
+            "delay": 0
+        }
+    ],
+    "7NYc7EzXdJRebJj851MR59V3BDsy8zEvSkWpPE1t5BydFCXf": [
+        {
+            "delegate": "7KZ2NQPejz74uWrY4hXiVcqB5MC9X7nWh7UFvbjB2UkpAVBL",
+            "proxy_type": "Governance",
+            "delay": 0
+        }
+    ],
+    "7LDBFU4f7rArZduXL6fJM4dMxAwqAyswRZGs1LAzu73LoncS": [
+        {
+            "delegate": "7NEPQ4GXT1oaLgGj2mVMbxaAmZjmq3qGDqDMMVsrU1Any1fV",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7M74gmzt315ox26kRq1oSbURJxHkUvWZvddM2cZ8o8FbwK18": [
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7P1SVDhRjscFtzDydiQS7EhRXHnGhFDa3m1bVyiJzcECJq8p": [
+        {
+            "delegate": "7JGwvE6drMNn7x632HRwKrBapVww92VmbHJie4DG7J1Z1goK",
+            "proxy_type": "Governance",
+            "delay": 0
+        },
+        {
+            "delegate": "7JGwvE6drMNn7x632HRwKrBapVww92VmbHJie4DG7J1Z1goK",
+            "proxy_type": "Transfer",
+            "delay": 0
+        },
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7NHQiQTmiiHZDt3w5P6t8JufcKreFadjSmT7XdvvPemaBvnc": [
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7K3neNqwxZ2GjauMx987yaCUW5eUPUEoEBDmw91jVZZNhBKR": [
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "7LxuZDAX5eydVWNT1B45CiGtcWe6GcUggwWsPAnbpVbgEfUe",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7P5HGS9GszCjueDu3qAemRHmyrzh2iXU2hGPsevdNGZqN7QA": [
+        {
+            "delegate": "7HpndwwaxxgdZredbGVeZeqHHWdahE6bmds624e6T3cwH72q",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7Ln8rMxrfF9mAoNWBEeVmia8aywb2bwQoNfBLDHPbFjeWxsF": [
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7Hnz3zY1dJs9fWNM8dDp1brsTp1gBrKnEceYNvSFrtGhy8x5": [
+        {
+            "delegate": "7HqXiT9NFExJxtAg1jWgc7uEQ5AqFG1PVLkBEgy3KGp9KEpU",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7JGxm6EWU8n5okEvg7ZXS34K148rhtHQepc76UXsN4x9osVj": [
+        {
+            "delegate": "7Ljn9Yh5P6rvvBLf5FUoMLC4ckTckSR5WRK5H6sN4mrb6TSU",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7KvhNVQhxqQ7dRp3NHpXgw8sToNPKmH9vbQzu77xBk9WXvtZ": [
+        {
+            "delegate": "7Mzn74AYebhza7GRUAYVYbG6YmmR5YgZpQeGaUmThUPrMQ9M",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7NFJmbD2zMEmZFqWECjTwQve6MQF3s7XFKDfiLyofZ1R6m8J": [
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "7LgTsFHximAgsgUTBZAQELngkAXHCwVVWwr5ue5JYMZ5nVPj",
+            "proxy_type": "Governance",
+            "delay": 0
+        },
+        {
+            "delegate": "7LgTsFHximAgsgUTBZAQELngkAXHCwVVWwr5ue5JYMZ5nVPj",
+            "proxy_type": "Transfer",
+            "delay": 0
+        }
+    ],
+    "7Li3a2psjJCjSpNkoMfXFyjS6JwRN1wnavz41zHEiujyBJZP": [
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7Nd6w4MysjNYhDPJvinySVufN1RMBXXxkHdgojPSqqJRPGoy": [
+        {
+            "delegate": "7JCmEdYEruZ6eQAoLRpU6btAyEcdjFpgDiusjqhyd4cKtB7D",
+            "proxy_type": "Governance",
+            "delay": 0
+        },
+        {
+            "delegate": "7JCmEdYEruZ6eQAoLRpU6btAyEcdjFpgDiusjqhyd4cKtB7D",
+            "proxy_type": "Transfer",
+            "delay": 0
+        },
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7NPcMrtsmgzSwFjMsKQt8BuzFTFAkyebyCgK3pFhVSuhQ5nc": [
+        {
+            "delegate": "7N96CLVuBcgXDg6BvGibKBmkwhkyKbM9ppE7wyPP96yxfQCT",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7JUgeSQYJRSuBUUpabJMFP9JhNbuv4QJgjoZRjG1tUdFC5L8": [
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "7NovAuLk5w58XM22Bb4iqBpfbfhrMN9UR793vZKVtxwmyqyn",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7NyXBZTwCojFf8vLDmazgjnE4pvNpdvbpu5Tv4NHkxVeLYzd": [
+        {
+            "delegate": "7JdxHiBfTMTHXm8DCuhaijyjF2ix6VpDLxrwkvGwBj8uunyk",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7NQFJJeGLiXe6YUGosoQMspUZHe3PXXWf1o3qQxeXXSCJqQj": [
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "7NuHGoWLkp2wgTDUW81JpqVPqQ1s6VSV5GGKffowz1THk4B4",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7HismABTgVXjLpcmJfgsLwNa1VVWswmLT7LwnhrBHHrnweJd": [
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7HxHrcuAtG1atZYc44DgVTB4e8HoBobYd7tKqMwT2SkkAWMH": [
+        {
+            "delegate": "7Hw7R1p3dbUyPXvHJbepNgNjDtYLTxzMLz5UPaZg8M43x3By",
+            "proxy_type": "Governance",
+            "delay": 0
+        },
+        {
+            "delegate": "7Hw7R1p3dbUyPXvHJbepNgNjDtYLTxzMLz5UPaZg8M43x3By",
+            "proxy_type": "Transfer",
+            "delay": 0
+        },
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7JBpBbmEHa1FahqchyoefBq1Tx1Wbxj9AA8uYYfqMX3GKepe": [
+        {
+            "delegate": "7KQt4hRhEWtvmZboU3X2gRU4aEhQz7p8KidHKNa8Tvpbj48R",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "7LDkovk12MjudBXwdBSq4sAJjA1btgTBXXxzKtufCvYUe2Si",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7NDAFPQGPgbyoA2dNiGLCVJL5ggJB58yZq6BWUn7nF1EbYo8": [
+        {
+            "delegate": "7Jn6zFHEhUzHcrZ3M55werHtVftW4hGfggQtJNxA26JiK4ns",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7LCebFeQeCjbXXM7t4DsNLhnui1Hh73GieEa43ooeXxtygkg": [
+        {
+            "delegate": "7Lf6SCp2FTdNwtWYukDcbZ6iGQDNT8qXGEhs1suTvqhaGjdu",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7KjrJzHmBXa2XJMGhczvFqNHTpdxapJuEkfv3X3MwqiVjMQq": [
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7Lechhvk5CRjbjXzQYVjsyBL8TyszCEqLwwVt5xgFJHuf5kr": [
+        {
+            "delegate": "7PAqZneBfsGGwjL1jsBj1G2Jezwf5JTdZyhos8hqdkp62QbJ",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7KDR497TxDBBxj24hZsRv3yzkWj1cnG3Rhfi8oBx8YGYgMNX": [
+        {
+            "delegate": "7J4Hhd2a5e7NSPPa7Pjy6Xk4JD4oXzc2eBDitPrXQZTuvi6D",
+            "proxy_type": "Governance",
+            "delay": 0
+        },
+        {
+            "delegate": "7J4Hhd2a5e7NSPPa7Pjy6Xk4JD4oXzc2eBDitPrXQZTuvi6D",
+            "proxy_type": "Transfer",
+            "delay": 0
+        },
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7NqqL6UyuvPxYDgDKxdgVHR8BD5ePcuW4QGK9EEHt56uCmW9": [
+        {
+            "delegate": "7JR9116mbVN8v7Y15FDjE1z7SHbLYpY8sUUbkYjd8KsEYuH4",
+            "proxy_type": "Governance",
+            "delay": 0
+        }
+    ],
+    "7Lbzc1kDMR3JqRd4y9ir26n88CwxKsx553d6ZaZfMJAHYZWH": [
+        {
+            "delegate": "7K4LQq1hEQ5CiCjU8uBMDf8SGjkwok9tatkALRb2zWEnLzmX",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7NZNF4SY7osKi3XLdUcLbbihhXPGikndM3LgXcdt4eFBziQe": [
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "7LTquE6cymoaGBbpQMgBZ53xnufzwFdtqbn5fweQhNTUCfYh",
+            "proxy_type": "Governance",
+            "delay": 0
+        },
+        {
+            "delegate": "7LTquE6cymoaGBbpQMgBZ53xnufzwFdtqbn5fweQhNTUCfYh",
+            "proxy_type": "Transfer",
+            "delay": 0
+        }
+    ],
+    "7JgFzjouJBHgC5EpDBaFhe8y8Et71zgVh3xRd6EikEjugLYG": [
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "7KQfmc3kQUDae7VAfnbmopswpfoUyiaQmFxYKm5JewJJbRGB",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7JgnNALMtYpgFaRNEocV8nRp6eFRsm9GdaNXfbb8tPkSBEFk": [
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "7KmSTtDwWzoK6C3e54ks66hWHRoB4t3ELdA8PKYbPsx5YZsp",
+            "proxy_type": "Governance",
+            "delay": 0
+        },
+        {
+            "delegate": "7KmSTtDwWzoK6C3e54ks66hWHRoB4t3ELdA8PKYbPsx5YZsp",
+            "proxy_type": "Transfer",
+            "delay": 0
+        }
+    ],
+    "7PE5okM6CA7vGkpgHMd4hR6nqGddYySoqe6CAxKDgR4FAJoc": [
+        {
+            "delegate": "7Hsq5RH9xUtPWFZMGXtoVWNd4CEjpJWsidf7bcGwNwdxp9Ha",
+            "proxy_type": "Governance",
+            "delay": 0
+        },
+        {
+            "delegate": "7LGWvFudYrVdJYxG8ekhFSpgzfN4e7BbTzTKpi3wAr1BPrsB",
+            "proxy_type": "Governance",
+            "delay": 0
+        },
+        {
+            "delegate": "7MN4G7gYAJyGAq65PAAy24egt36moqn2NojeRRu8HHLoNqGS",
+            "proxy_type": "Governance",
+            "delay": 0
+        },
+        {
+            "delegate": "7MvQ5VqCLMdDDE6g2dJK4PFpALyvRD2pxNiiBgF9atxnTwNp",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "7NJp5SL8d2SGhzwqdD7qnF4Z3VQe4uMefoxWFnQMuGJeLwPw",
+            "proxy_type": "Governance",
+            "delay": 0
+        }
+    ],
+    "7K8mSgyoXL1joSrGWZunTx5actW73WYh4sigXEGkhuJVT64S": [
+        {
+            "delegate": "7HyWpMF95R5MwLFiQ5PpviuKawwXtBNBd9dzRsUxTrroYgkf",
+            "proxy_type": "Governance",
+            "delay": 0
+        },
+        {
+            "delegate": "7HyWpMF95R5MwLFiQ5PpviuKawwXtBNBd9dzRsUxTrroYgkf",
+            "proxy_type": "Transfer",
+            "delay": 0
+        },
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7LUbpBSuU9NZjnCt7PvdVvFdioPXrGdWUoQNV3ps3EWXg4WQ": [
+        {
+            "delegate": "7MyzKGvuCfzGHqu4SHCr3XeQ8qjcD2nYdCcDiKbey8AiuSDF",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7JR95fpCbQVMqboQBvc9A2eFwtm8UQYGvXBghukNmNfnML3r": [
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "7LrSWWfxqLTuf71zF4DhRj68Ep4uLKH8DMzhjSc8HJPpNuS2",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7K7du5kpikJBRxgVtRTS5gsmbqzNAd5VgxdSNtAXFM6K3UNf": [
+        {
+            "delegate": "7Hsq5RH9xUtPWFZMGXtoVWNd4CEjpJWsidf7bcGwNwdxp9Ha",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "7N4rCtkkwsSiC3KvA8vqjw8p5ArGCR2K8mN54Nigurj75RA3",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7KbR7Kn2exG48ocQAQ8K6yuk2xBgK8XJQgc6r9UEw4gooajV": [
+        {
+            "delegate": "7J5JT3LbhhBbaYHxfK2kdFBR8fdGU6tHqg5eYK81X3CVGrgX",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7LVkKbRuAq4wBXeSnbeaPS6f26oz1RDLNVPemMXwxgpK5crD": [
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7PGKZFT38WDRyJPaheCR422J6DLJN63KGfHX57bUuAWDt6WX": [
+        {
+            "delegate": "7MKpBMHbYp2PWd8TtACQoXZnsJgw8oCVuYLpMTZLprNbbPY1",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7HmSVe27huxZdJNifPoHtMChYYXPv5wQNt5YPqNoTSD4ZDQ6": [
+        {
+            "delegate": "7K4LkipjzdHC4aQuRPNRJgYEKYGoKNSfmuJXNkJbHdKiBgD9",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7MFjvQouV5ywuFuVxX2mSUR13jDX2qPAHprWkzCzCSwQAUF7": [
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7NMdbTs8UzxTAN6QmXZRFNa2ZzdaV2HaodGaTMcbPs79k6zJ": [
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "7NuHGoWLkp2wgTDUW81JpqVPqQ1s6VSV5GGKffowz1THk4B4",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7K6Ur2qbRroeBwhEA7q5wsY4hfCjqSi2nQKTt8GfvX9fM79z": [
+        {
+            "delegate": "7K4LkipjzdHC4aQuRPNRJgYEKYGoKNSfmuJXNkJbHdKiBgD9",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7KtHUQ5YUR5SwnQ4NbB1sxyFhcHXJHY8JTVqpAcgwPMe2na9": [
+        {
+            "delegate": "7NqkaFxhuaYSXNAhUA2Vb8TsFqVbHYkN8kXRHCFDrpMuZdWQ",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7LbGyyGpeax5NAW1ZGjfhZsnwmkinSsbaFYcQ662Mu14QqE6": [
+        {
+            "delegate": "7KLwBuNihkhssdxuHxDzoDRyXRFq7LwqTUNw7UuZEwP92CNZ",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "7Jji54v3Ey9h88fgquHU7QZq7BVL9tDDht2vnZnpaGuWtSUW": [
+        {
+            "delegate": "7NE3uMfaqEauom29mf1dKyKE7EvbSDqZMA5SD6Zck6mqh5Ck",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ]
+}

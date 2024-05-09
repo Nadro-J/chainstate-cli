@@ -1,0 +1,18 @@
+{
+    "call_index": "0x0102",
+    "call_function": "authorize_upgrade",
+    "call_module": "ParachainSystem",
+    "call_args": [
+        {
+            "name": "code_hash",
+            "type": "Hash",
+            "value": "0x12e2d5e2469bfaf03c35591380c54691b52ea4229ef83a6e2daf5398aab96608"
+        },
+        {
+            "name": "check_version",
+            "type": "bool",
+            "value": true
+        }
+    ],
+    "call_hash": "0xccb87cb6bd548ff5f3a335340169f1a3df473b9aa6bcee2cf27edac6eab7eee0"
+}

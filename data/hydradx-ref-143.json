@@ -1,0 +1,90 @@
+{
+    "call_index": "0x6b00",
+    "call_function": "send",
+    "call_module": "PolkadotXcm",
+    "call_args": [
+        {
+            "name": "dest",
+            "type": "VersionedMultiLocation",
+            "value": {
+                "V3": {
+                    "parents": 1,
+                    "interior": "Here"
+                }
+            }
+        },
+        {
+            "name": "message",
+            "type": "VersionedXcm<()>",
+            "value": {
+                "V3": [
+                    {
+                        "WithdrawAsset": [
+                            {
+                                "id": {
+                                    "Concrete": {
+                                        "parents": 0,
+                                        "interior": "Here"
+                                    }
+                                },
+                                "fun": {
+                                    "Fungible": 10000000000
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "BuyExecution": {
+                            "fees": {
+                                "id": {
+                                    "Concrete": {
+                                        "parents": 0,
+                                        "interior": "Here"
+                                    }
+                                },
+                                "fun": {
+                                    "Fungible": 10000000000
+                                }
+                            },
+                            "weight_limit": "Unlimited"
+                        }
+                    },
+                    {
+                        "Transact": {
+                            "origin_kind": "Native",
+                            "require_weight_at_most": {
+                                "ref_time": 1000000000,
+                                "proof_size": 65536
+                            },
+                            "call": {
+                                "encoded": "0x3c00100d0000e803000000900100"
+                            }
+                        }
+                    },
+                    "RefundSurplus",
+                    {
+                        "DepositAsset": {
+                            "assets": {
+                                "Wild": {
+                                    "AllCounted": 1
+                                }
+                            },
+                            "beneficiary": {
+                                "parents": 0,
+                                "interior": {
+                                    "X1": {
+                                        "AccountId32": {
+                                            "network": null,
+                                            "id": "0x70617261f2070000000000000000000000000000000000000000000000000000"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    ],
+    "call_hash": "0x5db4c43a1db916b9a5a44076c205ab13fcd9671537e19cadd9b447be8c50eede"
+}

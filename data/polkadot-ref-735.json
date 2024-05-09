@@ -1,0 +1,18 @@
+{
+    "call_index": "0x1303",
+    "call_function": "spend_local",
+    "call_module": "Treasury",
+    "call_args": [
+        {
+            "name": "amount",
+            "type": "BalanceOf<T, I>",
+            "value": 560160000000000
+        },
+        {
+            "name": "beneficiary",
+            "type": "AccountIdLookupOf",
+            "value": "12EUhpMWyfXSvqfahhty2kDqL2FQx8ZhLsXGn4xwN6QqjCnB"
+        }
+    ],
+    "call_hash": "0xe1d1116a3f85d5819c1bf9973afcbf54b5dcd6e570e33200d7ab2dae140a1750"
+}

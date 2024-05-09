@@ -1,0 +1,13 @@
+{
+    "call_index": "0x1208",
+    "call_function": "void_spend",
+    "call_module": "Treasury",
+    "call_args": [
+        {
+            "name": "index",
+            "type": "SpendIndex",
+            "value": 3
+        }
+    ],
+    "call_hash": "0xe83b5bd477e5c79e3f799310ae83788a955169f7900d65cbf5e1f406d793dae1"
+}

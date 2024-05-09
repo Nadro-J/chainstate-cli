@@ -1,0 +1,3720 @@
+{
+    "0x6f21e1c5234ec2da8019632d4836ffcc2379dba7": [
+        {
+            "delegate": "0xc98b3c217236f0f9db892e2a5a9f66df7bfebf11",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0x67086f1fff96e82463c837c4b20eb9e2b453f629": [
+        {
+            "delegate": "0xa2288cdee96e0f65d5b820bfe52ee901d12210c4",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0x381d106c440f92654827d2b2c637dd5b38a362a7": [
+        {
+            "delegate": "0x16095c509f728721ad19a51704fc39116157be3a",
+            "proxy_type": "Governance",
+            "delay": 0
+        },
+        {
+            "delegate": "0xef4d8ab762ce920645ef29a6a53a246246663ba4",
+            "proxy_type": "Governance",
+            "delay": 0
+        }
+    ],
+    "0xb29f4d175953faf999869036bb170e4a99dba62c": [
+        {
+            "delegate": "0x456087a9a2062b249063b128c57ae039fc0a00d9",
+            "proxy_type": "Any",
+            "delay": 50400
+        },
+        {
+            "delegate": "0x4f39541061ea31fc2f598f0bced63a359ae4dc48",
+            "proxy_type": "Any",
+            "delay": 50400
+        }
+    ],
+    "0x8dbfcf61a994e25051379fb2814dee422af4ffea": [
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xd03d620085ef987470e09e960b0fd159073a7f30",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0xb4b0dd38d6a4624e05003c7bdd4e7245f15e8825": [
+        {
+            "delegate": "0x11d9e17b34a0796867c90c3aa01019d4b389addc",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0xac6d13f8b148acfc5fca4d4d6b4eaa5a78c6079c": [
+        {
+            "delegate": "0x456087a9a2062b249063b128c57ae039fc0a00d9",
+            "proxy_type": "Any",
+            "delay": 50400
+        },
+        {
+            "delegate": "0x4f39541061ea31fc2f598f0bced63a359ae4dc48",
+            "proxy_type": "Any",
+            "delay": 50400
+        }
+    ],
+    "0x0198d3053a69c3f977bb1943bc95a0ffa7777474": [
+        {
+            "delegate": "0x05320e14de19a67e3cb4e1c92bc2dab468f6a45c",
+            "proxy_type": "Balances",
+            "delay": 0
+        },
+        {
+            "delegate": "0x0fb28a7b28591335a33861cbc3e9b77d9ab9a889",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        },
+        {
+            "delegate": "0x234ab11ac13963c19d16753cfbe470fc3c7b6eff",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        },
+        {
+            "delegate": "0x7422465dd94f54ce9c6c20361fc59d12a78a5d92",
+            "proxy_type": "Balances",
+            "delay": 0
+        },
+        {
+            "delegate": "0xe4201b954cfd29c83d8769c05a39d35ebc8d1366",
+            "proxy_type": "Governance",
+            "delay": 0
+        }
+    ],
+    "0xa42d47b18521124b083920e23009ce6758d3664b": [
+        {
+            "delegate": "0xd169ddc4495b21645ed5acdf61fa7309974bd2cd",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0x64265707f81633fb7b871083dddbb5d04f5c7af7": [
+        {
+            "delegate": "0x23e8a745062874355f391acf4677fc69bdc52626",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x7a4df7e2cb26b8d32b72043409f857b21c3ceff4",
+            "proxy_type": "Balances",
+            "delay": 0
+        },
+        {
+            "delegate": "0x98c5eecffdb6c8ee3c18f6fbd8e498763bb40b83",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0x0dfd2741fa7f5e6a22b1c7fb13c3554550ecc9d5": [
+        {
+            "delegate": "0xcfbf79a75a35baa595b7e0d376c87fa47f6ef3da",
+            "proxy_type": "Governance",
+            "delay": 0
+        },
+        {
+            "delegate": "0xcfbf79a75a35baa595b7e0d376c87fa47f6ef3da",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0x6b8a476b442bcd63e9835820764946b239ec8a0b": [
+        {
+            "delegate": "0xeb79385f42b5378a6b65ee6e54484507ba8164dd",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0x1b55484eceef4a42ebba5daffcbc6159fcb0e569": [
+        {
+            "delegate": "0xaaade1eaa1a5316027f75e2e1a49660018839f02",
+            "proxy_type": "Balances",
+            "delay": 0
+        },
+        {
+            "delegate": "0xaaade1eaa1a5316027f75e2e1a49660018839f02",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        }
+    ],
+    "0x375a13ae6fe7102ab68481e2cff6b833fb91c705": [
+        {
+            "delegate": "0x314edb88c10f1605422419af8ab49fc4decf88fe",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x7c9b9485825044dd1295f3045a9980d8cbc159d9": [
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xdd0d6c993a28deea0dedd144b942511edecf53f5",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x6e513d5a1eca706e94794a8e3888bb79fb725393": [
+        {
+            "delegate": "0x744f55da695d81e1493179ceded1db67a7d1f80c",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        }
+    ],
+    "0x0c7269a14533b016fb095a5d145100745e78b814": [
+        {
+            "delegate": "0x1e22eb6e40973bed2f20ef6d5c5a2dacfb70fe6d",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0xa9349a0191c93534f8b9ca295ebf2b8a87c89062": [
+        {
+            "delegate": "0x456087a9a2062b249063b128c57ae039fc0a00d9",
+            "proxy_type": "Any",
+            "delay": 50400
+        },
+        {
+            "delegate": "0x4f39541061ea31fc2f598f0bced63a359ae4dc48",
+            "proxy_type": "Any",
+            "delay": 50400
+        }
+    ],
+    "0x2b5838f00a0ee5d47829d5497a57b7b4c7209761": [
+        {
+            "delegate": "0x3644186bc90ef54f01ed260f210285e95c18b11c",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        }
+    ],
+    "0x21577832d33fd7d4f5599bb4a3871df9f67aef8c": [
+        {
+            "delegate": "0x2a5ab8a204aba50fb6619224291140c712481cbc",
+            "proxy_type": "Balances",
+            "delay": 0
+        },
+        {
+            "delegate": "0x7f8b7ad5e3a25cd7a78181908f6391c8273a04c7",
+            "proxy_type": "Governance",
+            "delay": 0
+        },
+        {
+            "delegate": "0xcd849505d5a914e5e20eab90e882adf0113a21f1",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        }
+    ],
+    "0xd24b7042bc110d068708fb8ddc81a25b68d8a4bd": [
+        {
+            "delegate": "0x05e2f63d63cabcd13e93400d7a3f0722d831ed85",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        },
+        {
+            "delegate": "0x11d9e17b34a0796867c90c3aa01019d4b389addc",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x3b309f2ad6c1e7c813f98af725994434d7b3ef99",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        },
+        {
+            "delegate": "0xd06f8a90254976208504783737531bf52af353df",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        }
+    ],
+    "0xd3750199ff5291fd826b3cbafbc0d9c6a4559ebc": [
+        {
+            "delegate": "0x3fea60081461dcd9a2b55f073e83fd5405c0c940",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0xbfa14eb753e03ec28f1fca98e60227f1e3631451": [
+        {
+            "delegate": "0x456087a9a2062b249063b128c57ae039fc0a00d9",
+            "proxy_type": "Any",
+            "delay": 50400
+        },
+        {
+            "delegate": "0x4f39541061ea31fc2f598f0bced63a359ae4dc48",
+            "proxy_type": "Any",
+            "delay": 50400
+        }
+    ],
+    "0xe7d18eafd67ed5d4d03273c895bba430aded6e05": [
+        {
+            "delegate": "0x08e1ee6a3c03d57abb118b6db5b8e829fd6e42d9",
+            "proxy_type": "Governance",
+            "delay": 0
+        },
+        {
+            "delegate": "0x294bc5942c8213faf471c7c50c1d23c9f9067fad",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        },
+        {
+            "delegate": "0x83f3e351f5bdee9fb20e0b46415b672e227d82f2",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        },
+        {
+            "delegate": "0xc8a5a8145eefa1b20e0c88cbecbc84856485e548",
+            "proxy_type": "Balances",
+            "delay": 0
+        }
+    ],
+    "0xd507eab225ae0f3fd11e63bae808fba2ec0a4390": [
+        {
+            "delegate": "0x2b038337c8e96058acb81c056783c45862c0c0dc",
+            "proxy_type": "Governance",
+            "delay": 0
+        }
+    ],
+    "0x1c86e56007fcbf759348dcf0479596a9857ba105": [
+        {
+            "delegate": "0x23e8a745062874355f391acf4677fc69bdc52626",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x7a4df7e2cb26b8d32b72043409f857b21c3ceff4",
+            "proxy_type": "Balances",
+            "delay": 0
+        },
+        {
+            "delegate": "0x98c5eecffdb6c8ee3c18f6fbd8e498763bb40b83",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0xfb1b0e748b2b02f19947de43ee945b9d5869193a": [
+        {
+            "delegate": "0xea21b3210ee7349494ac5a0d1ca4a6306956a5f8",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        }
+    ],
+    "0xb7bb81937493dfcab0aa2427707b570e3a9461f4": [
+        {
+            "delegate": "0x314edb88c10f1605422419af8ab49fc4decf88fe",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x90358a44f8c296dbc0dd7bfd7423c8f539c8c215": [
+        {
+            "delegate": "0x73c679df730b8ba181726bc6d5aed6bc103324d8",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x49700fb3ddb67d7f7e366261fcbdfac0b90f6f5a": [
+        {
+            "delegate": "0x456087a9a2062b249063b128c57ae039fc0a00d9",
+            "proxy_type": "Any",
+            "delay": 28800
+        },
+        {
+            "delegate": "0x4f39541061ea31fc2f598f0bced63a359ae4dc48",
+            "proxy_type": "Any",
+            "delay": 28800
+        }
+    ],
+    "0xb13b8a0744a06c1d0e59b297b1893619a4dc4017": [
+        {
+            "delegate": "0x88dad45d1a8c6fc39035c4857cf2e2c7f861d828",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0xe1dea1989f5a7e40cf0a7ad2093cae59cf8702c7": [
+        {
+            "delegate": "0x16713da611851a5bcdc83673014bb1c50c68b767",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x02caea0e15ee0ee8ebb697b566b3e4820bdbc34f": [
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "0xf0adbe5e49d8532f2b3ed32dc32f7206d10ac3dd",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        }
+    ],
+    "0x73fd06abca1669725ce4eca539bf55393b228f23": [
+        {
+            "delegate": "0xf74cb212dd98ea26efb702102229bc0fd06d565c",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        }
+    ],
+    "0x53cfb3a77efc4088b48ed7b94e8d8eea0d002aeb": [
+        {
+            "delegate": "0x133788d4f1293887776638ac7b6e7e9910d917fb",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0x63d459ee64c0f903ed48fb6f2176df4154bde15a": [
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x2f287714ddcecfd449d6d12b6d6e470457518fd1": [
+        {
+            "delegate": "0x9be53bd03867fa6b257fbe5c9ae846925a807987",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        }
+    ],
+    "0x2f24216fe6a9567a2f46685578051d0a6b01aad8": [
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xac29a7fba1f44ac04b18dcea1dda73a878e6a78f",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0xcde354044610fa83e23b94bd860ec258c9a348c1": [
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x9feedd021e50af921e418651e7207398cad418bf": [
+        {
+            "delegate": "0xfa250f03efbbaf7128fbda176062dbec52f17009",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0x44624edd30abdc5aad29f5b233e6e610e954054f": [
+        {
+            "delegate": "0x9a20f28df93ac3ae73ae4e8d4e7cac17cc97e154",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xcee609bcc8ef06dbbe7b35c1306edd162a9f7ecd",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0xa47e79abc887fd0430565bbe7eb9c1201362e4b3": [
+        {
+            "delegate": "0xaf8978d4603f2f66ee6ba702b0e7f676be3bfd29",
+            "proxy_type": "Balances",
+            "delay": 0
+        }
+    ],
+    "0x585dd148a9081e9dc0955b5105f98c65a3ba6339": [
+        {
+            "delegate": "0x1cfdda4a914ea1683a320853ec986f5648b9797b",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        },
+        {
+            "delegate": "0x21c18c18ce648bf11b0d0f2e79a74287cf374aa1",
+            "proxy_type": "Balances",
+            "delay": 0
+        },
+        {
+            "delegate": "0x556464d74a9e61d4e693acc77194b97a4eb120c8",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0xe0243df6e780000109e80625929c3d76df67a67b",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        }
+    ],
+    "0x7a6a051d542040155c41eb599e995427bf672b4d": [
+        {
+            "delegate": "0x6b0d883d43d11d98df5238c8b0830b79658d7f46",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        }
+    ],
+    "0xcb85996601e99bf6df1f49a9b723da23c0851e8a": [
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x81c4cad6353a3f14433503e7976b16b0adb00a08",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x10023fa70ed528e4f28915bf210f6e87b057c08e": [
+        {
+            "delegate": "0x0ca09a4b04445295106c660c295421307a264d0c",
+            "proxy_type": "Governance",
+            "delay": 0
+        },
+        {
+            "delegate": "0x0ca09a4b04445295106c660c295421307a264d0c",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        }
+    ],
+    "0xf02ddb48eda520c915c0dabadc70ba12d1b49ad2": [
+        {
+            "delegate": "0x23e8a745062874355f391acf4677fc69bdc52626",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x7a4df7e2cb26b8d32b72043409f857b21c3ceff4",
+            "proxy_type": "Balances",
+            "delay": 0
+        },
+        {
+            "delegate": "0x98c5eecffdb6c8ee3c18f6fbd8e498763bb40b83",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0x6faf9f07d12d68a3685d34f3262383df40bd35cd": [
+        {
+            "delegate": "0x3c0f3ce4d2fadf25da46dc49cd3fe63bd128b548",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        }
+    ],
+    "0xe40c17d668c766b52094576e2833df53b49eb9dd": [
+        {
+            "delegate": "0x11d9e17b34a0796867c90c3aa01019d4b389addc",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0xd0e44092357af131a7330eac9752be06d7121d7d",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        }
+    ],
+    "0x0a2f88f2c8ec33ab7d5118a09b09eef844e3be72": [
+        {
+            "delegate": "0x456087a9a2062b249063b128c57ae039fc0a00d9",
+            "proxy_type": "Any",
+            "delay": 50400
+        },
+        {
+            "delegate": "0x4f39541061ea31fc2f598f0bced63a359ae4dc48",
+            "proxy_type": "Any",
+            "delay": 50400
+        }
+    ],
+    "0xa9b0c16b23f036e5a5caa249c301f1ff431e2a60": [
+        {
+            "delegate": "0x39a210e05b6286f153701af50d8c69b133056de1",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x9ab5d2f9beabae24a43c537e61aee3da51c22f69": [
+        {
+            "delegate": "0x744f55da695d81e1493179ceded1db67a7d1f80c",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        }
+    ],
+    "0x41d4b02022165fcd47b4e0f64aa41eef9ef1da38": [
+        {
+            "delegate": "0x1cdc248174ec9e9c505fabdbb0e037b5acab5c13",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        }
+    ],
+    "0xb4288dfa8a4ad5f2857f59e3fd67aaa20b468137": [
+        {
+            "delegate": "0xcc359c6d52162dbf78ab8d15f5f1552d3062452a",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        },
+        {
+            "delegate": "0xe69b87b0752616a36e45addc3dd75d9d5c721ba8",
+            "proxy_type": "Balances",
+            "delay": 0
+        }
+    ],
+    "0x6f39cba057acb67df748efce6d14b94c53b16574": [
+        {
+            "delegate": "0x456087a9a2062b249063b128c57ae039fc0a00d9",
+            "proxy_type": "Any",
+            "delay": 50400
+        },
+        {
+            "delegate": "0x4f39541061ea31fc2f598f0bced63a359ae4dc48",
+            "proxy_type": "Any",
+            "delay": 50400
+        }
+    ],
+    "0x02b8d54a9a7b4f408a5d46d7f9ff1b5f1d370504": [
+        {
+            "delegate": "0x059e80aec372b91510bbe2b88624b839b09f7ef3",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        }
+    ],
+    "0x98ba26fc77a48cb1e6bce1c149552f86051b7198": [
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x9290571cab021c31ed1f8aa246d41185a6b20b0a",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0xc2f12277d366b3fc84ba270252e53f126dc074e4": [
+        {
+            "delegate": "0x340d8261a3f5941f2454b973d83028947566e231",
+            "proxy_type": "Governance",
+            "delay": 0
+        },
+        {
+            "delegate": "0xf614611651ce21e92a3cfe700a89ce20aed81b64",
+            "proxy_type": "Governance",
+            "delay": 0
+        },
+        {
+            "delegate": "0xf614611651ce21e92a3cfe700a89ce20aed81b64",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0x4c13fe288d0e7ae658087f1dc50c15107421ad3f": [
+        {
+            "delegate": "0x133788d4f1293887776638ac7b6e7e9910d917fb",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0xcbe5c639ca96316e3578cc134458f9d8ddf9a0c2": [
+        {
+            "delegate": "0x314edb88c10f1605422419af8ab49fc4decf88fe",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x1e5c7ce860ff322983d110595c4add312c3ae784": [
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x7368ef98577a419280974a60e7fe590379c21e6a": [
+        {
+            "delegate": "0x7836f45c7eec17e09bc33d5863a371016b9fba76",
+            "proxy_type": "Any",
+            "delay": 50400
+        },
+        {
+            "delegate": "0x98c5eecffdb6c8ee3c18f6fbd8e498763bb40b83",
+            "proxy_type": "Any",
+            "delay": 50400
+        }
+    ],
+    "0x3431e0de19a9eb54d71be71a2fddb7e7b3225643": [
+        {
+            "delegate": "0x4846e4a376a4e7efa9b0b1ed0b6f44c0d59753af",
+            "proxy_type": "Governance",
+            "delay": 0
+        },
+        {
+            "delegate": "0x9a20f28df93ac3ae73ae4e8d4e7cac17cc97e154",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0x9a20f28df93ac3ae73ae4e8d4e7cac17cc97e154",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        }
+    ],
+    "0x6bc2169bf395d90b3fd1ca33d63fce2c6a35d25b": [
+        {
+            "delegate": "0x23e8a745062874355f391acf4677fc69bdc52626",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x5a2b4aa953cc06fa2938f0bf554d746d7e59732e": [
+        {
+            "delegate": "0x3f1f6ab5a39f529db43aaffa17e25a87ce8c57b4",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0xafba0891fc7766c8357ecea9bcce468a02110d95": [
+        {
+            "delegate": "0x457173ff8e5ef0e3a3b4103ac1382f67d3682f10",
+            "proxy_type": "Governance",
+            "delay": 0
+        }
+    ],
+    "0x37ac0a70b508389e6ce6a316d25eff24ac461d12": [
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xd03d620085ef987470e09e960b0fd159073a7f30",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x002ad15f48168f2b40083cc704833b91f278e2e6": [
+        {
+            "delegate": "0x23e8a745062874355f391acf4677fc69bdc52626",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x98c5eecffdb6c8ee3c18f6fbd8e498763bb40b83",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0x3628e309c5b745eb35f92bcf81fc6f9794e0f15c": [
+        {
+            "delegate": "0x456087a9a2062b249063b128c57ae039fc0a00d9",
+            "proxy_type": "Any",
+            "delay": 50400
+        },
+        {
+            "delegate": "0x4f39541061ea31fc2f598f0bced63a359ae4dc48",
+            "proxy_type": "Any",
+            "delay": 50400
+        }
+    ],
+    "0x408018309ff6dacb0a87a24364c2c77e508e40e0": [
+        {
+            "delegate": "0x23e8a745062874355f391acf4677fc69bdc52626",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0x98c5eecffdb6c8ee3c18f6fbd8e498763bb40b83",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        }
+    ],
+    "0xe65c502899b593479335a27945b1b53283f55193": [
+        {
+            "delegate": "0x05feb2526f433bb667b5a745d422f2f229fe6aff",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x68a20678c2f0a4ec3e958610ea36e671d2332781",
+            "proxy_type": "Balances",
+            "delay": 0
+        }
+    ],
+    "0xaa795bb2c69b1419c4e0b56706777e9a68bac42b": [
+        {
+            "delegate": "0x358059c35042f729865120d5235c55e1e455d2d6",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0x9f08993bcfafe9be586fdfecb0459158d67297a3": [
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x81c4cad6353a3f14433503e7976b16b0adb00a08",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x7f1ba0b92943a38a55ea344676f5685afbfe5ad5": [
+        {
+            "delegate": "0x456087a9a2062b249063b128c57ae039fc0a00d9",
+            "proxy_type": "Any",
+            "delay": 50400
+        },
+        {
+            "delegate": "0x4f39541061ea31fc2f598f0bced63a359ae4dc48",
+            "proxy_type": "Any",
+            "delay": 50400
+        }
+    ],
+    "0xb2e3e0b8cecfbd8b4f3dc1849ddf3c79c21300bd": [
+        {
+            "delegate": "0x456087a9a2062b249063b128c57ae039fc0a00d9",
+            "proxy_type": "Any",
+            "delay": 28800
+        },
+        {
+            "delegate": "0x4f39541061ea31fc2f598f0bced63a359ae4dc48",
+            "proxy_type": "Any",
+            "delay": 28800
+        }
+    ],
+    "0xa99716fdf1a1e45969cc5469f3fadec7c3b4666f": [
+        {
+            "delegate": "0x456087a9a2062b249063b128c57ae039fc0a00d9",
+            "proxy_type": "Any",
+            "delay": 50400
+        },
+        {
+            "delegate": "0x4f39541061ea31fc2f598f0bced63a359ae4dc48",
+            "proxy_type": "Any",
+            "delay": 50400
+        }
+    ],
+    "0xd7e3b04d7cd17946d3b0f40bd2c6a4175a012cd6": [
+        {
+            "delegate": "0x0093a79f824e2bfa7d746292cb9dbdb8bd4c8419",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x7905e3415e0267632664cf3a0387adbc5cfca5f3": [
+        {
+            "delegate": "0x11d9e17b34a0796867c90c3aa01019d4b389addc",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xd0e44092357af131a7330eac9752be06d7121d7d",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        }
+    ],
+    "0x720fb39311072d01c14a6ee9b62109633314086e": [
+        {
+            "delegate": "0x8340b3d1046180aaf7b68983c89c32794cdad62d",
+            "proxy_type": "Any",
+            "delay": 1
+        }
+    ],
+    "0x0e8b0913e21914f63848b7d54c76d1bc43a03cd9": [
+        {
+            "delegate": "0x05e2f63d63cabcd13e93400d7a3f0722d831ed85",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        },
+        {
+            "delegate": "0x11d9e17b34a0796867c90c3aa01019d4b389addc",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x3b309f2ad6c1e7c813f98af725994434d7b3ef99",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        },
+        {
+            "delegate": "0xd06f8a90254976208504783737531bf52af353df",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        }
+    ],
+    "0x84f94da49c63596cb9a465b02e65f43ca2315041": [
+        {
+            "delegate": "0x3b15372876585ec06542700ba4b7e42fc6a4f1d7",
+            "proxy_type": "Balances",
+            "delay": 0
+        },
+        {
+            "delegate": "0xa0f120fc8fb21280963618e5e007fade0de1f90c",
+            "proxy_type": "Balances",
+            "delay": 0
+        }
+    ],
+    "0x508eb96dc541c8e88a8a3fce4618b5fb9fa3f209": [
+        {
+            "delegate": "0x29c73bee1474c126fc9691e07ccf66d65f040f34",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x532ce0651f4852785bf2589edf1b18ae64b389d2": [
+        {
+            "delegate": "0x4626c9220a0aa46ec400551e24b6c3cec1b61d23",
+            "proxy_type": "Balances",
+            "delay": 0
+        },
+        {
+            "delegate": "0x955db4fda38baf63327642a714d974f3fbd167da",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        }
+    ],
+    "0xabbed75d32f138e6b3366613dcd01a96e8b61b58": [
+        {
+            "delegate": "0xb24a2f3708f402dffd70baf9bb9492a29a65d9df",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        }
+    ],
+    "0xf51fd3dd05519d870dfb954d8a3a9835d3ad0959": [
+        {
+            "delegate": "0x094082abe04fecea12187b3102a86f86421822b1",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x68a20678c2f0a4ec3e958610ea36e671d2332781",
+            "proxy_type": "Balances",
+            "delay": 0
+        }
+    ],
+    "0x41f666ac944a4613df26d00a5d3926e64574a6be": [
+        {
+            "delegate": "0x456087a9a2062b249063b128c57ae039fc0a00d9",
+            "proxy_type": "Any",
+            "delay": 50400
+        },
+        {
+            "delegate": "0x4f39541061ea31fc2f598f0bced63a359ae4dc48",
+            "proxy_type": "Any",
+            "delay": 50400
+        }
+    ],
+    "0xcfbf79a75a35baa595b7e0d376c87fa47f6ef3da": [
+        {
+            "delegate": "0x49f48667347e90a384720a408db2f684782730e9",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "0xe3b8619eb116ee1fa46dfe86ecb2409b4e3da042",
+            "proxy_type": "Governance",
+            "delay": 0
+        }
+    ],
+    "0x7f1f9a444a22d8d39efdfdd9c441070f36a20750": [
+        {
+            "delegate": "0xc97c20237f228babe3c77956dabe7784186caf4d",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        },
+        {
+            "delegate": "0xcd2786432d46879a103fd4570e2cf5c4983af2be",
+            "proxy_type": "Governance",
+            "delay": 0
+        }
+    ],
+    "0xb9662aa0adbf57d5b74cf39b621e90e45982749e": [
+        {
+            "delegate": "0x8ba8b595bee74a2e0f73b22df975a23a15a705fc",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "0x9ee01e7cb0f97423e94180392488d6af3895fe30",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xf56c8a460a130a333712e6ccfc80efb3310af266",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        }
+    ],
+    "0x834286f4e2819c52387e8d2db1a71cbe9dfbb314": [
+        {
+            "delegate": "0x2955819eead7f44a251d5e886f5f68648a4dcad9",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0xa4d9ac2893f430ad101d9691d9587be24f30aed9": [
+        {
+            "delegate": "0x456087a9a2062b249063b128c57ae039fc0a00d9",
+            "proxy_type": "Any",
+            "delay": 50400
+        },
+        {
+            "delegate": "0x4f39541061ea31fc2f598f0bced63a359ae4dc48",
+            "proxy_type": "Any",
+            "delay": 50400
+        }
+    ],
+    "0xfcdb6e608c6aba36e300ffa627e771ad5f9c0ff3": [
+        {
+            "delegate": "0x6caf207e417ec88ef35b59e169096b7e1366128f",
+            "proxy_type": "Governance",
+            "delay": 0
+        }
+    ],
+    "0x1dc2ae28998dcbcd496a96883552bd0febc4af32": [
+        {
+            "delegate": "0x2a81eefa7bfb545d2555cef43f2f90e095a543fb",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        },
+        {
+            "delegate": "0xed74727f18beb23aef10d5830e35f802baff2ef0",
+            "proxy_type": "Balances",
+            "delay": 0
+        }
+    ],
+    "0x9ced08e436a468668caa25e0a7907acf5588d595": [
+        {
+            "delegate": "0xa3e9ea201f025a146e7bf220bf3adddcbe996222",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        }
+    ],
+    "0x1ed1675e2edc0bcf9d7e755cca674a7a8a180593": [
+        {
+            "delegate": "0x23e8a745062874355f391acf4677fc69bdc52626",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0x98c5eecffdb6c8ee3c18f6fbd8e498763bb40b83",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        }
+    ],
+    "0xae780efec20dc57e0cc4e635475c5801f4500725": [
+        {
+            "delegate": "0x23e8a745062874355f391acf4677fc69bdc52626",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0xb6395525819a4a3d74be262d1a9d0c7adfadac00": [
+        {
+            "delegate": "0x133788d4f1293887776638ac7b6e7e9910d917fb",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0x41efe9aa0f386c7db482158bcc21757b1a89016f": [
+        {
+            "delegate": "0x30932d37f55d6c6b971b21bcd4f06afbfa6e6ddc",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x9377d26d177b563e02b35a588145fc5ac9e6ea7d": [
+        {
+            "delegate": "0x133788d4f1293887776638ac7b6e7e9910d917fb",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0x8ddf8fca078e8ac2ef7d23904d77bbc8f0681bed": [
+        {
+            "delegate": "0xef4d8ab762ce920645ef29a6a53a246246663ba4",
+            "proxy_type": "Governance",
+            "delay": 0
+        }
+    ],
+    "0xeee7f269e04163dea8f9c8c075429e0b9928a6f8": [
+        {
+            "delegate": "0x456087a9a2062b249063b128c57ae039fc0a00d9",
+            "proxy_type": "Any",
+            "delay": 50400
+        },
+        {
+            "delegate": "0x4f39541061ea31fc2f598f0bced63a359ae4dc48",
+            "proxy_type": "Any",
+            "delay": 50400
+        }
+    ],
+    "0x88848d6a768adfae32c9aef05d70c522893efa1c": [
+        {
+            "delegate": "0xd78b06bca810e8b6b96bb33408e7b0c5742525c2",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        }
+    ],
+    "0xebbe047fdacaaf24b71c4d4319de46a4c31e0195": [
+        {
+            "delegate": "0x23e8a745062874355f391acf4677fc69bdc52626",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x98c5eecffdb6c8ee3c18f6fbd8e498763bb40b83",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0x080a4f2f9d6b283a75d9fb3a68728fb8ee3120d4": [
+        {
+            "delegate": "0xebe8ef062d50b05f9dc81ab1b9f02457bde0241e",
+            "proxy_type": "Governance",
+            "delay": 0
+        }
+    ],
+    "0x4e76edd399d2e2a4c6e4d11ccd927f094b681fed": [
+        {
+            "delegate": "0xc71bf1ea116a18271076b0b622272a3fa0b27e98",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0x9436cf1090ca39e38fec1f78c01ac9f936e36965": [
+        {
+            "delegate": "0xd25a22aa81265c01b91bdcda78abef77a13abab9",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        }
+    ],
+    "0xded2d7b582945161110c5a8edccbc3c3d78dd5dc": [
+        {
+            "delegate": "0xa7c33da54bbd7c72d319da2f917d07e9671fc391",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xe4201b954cfd29c83d8769c05a39d35ebc8d1366",
+            "proxy_type": "Governance",
+            "delay": 0
+        }
+    ],
+    "0x260182279e9ff590f56b6a4b209ef176bdbc46cb": [
+        {
+            "delegate": "0x23e8a745062874355f391acf4677fc69bdc52626",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x98c5eecffdb6c8ee3c18f6fbd8e498763bb40b83",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0x612243bf4413a34e4e0010eeca2c753ded0b67bf": [
+        {
+            "delegate": "0x0b7452aaf5c838df014b1a3db1c001aecfac3b83",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x58ce55a4efd27f8fe836a1bcdd2bc7f0a81fa627",
+            "proxy_type": "CancelProxy",
+            "delay": 0
+        },
+        {
+            "delegate": "0x8ecb7ebf702b29264ca9877ccc9fc17aad53df08",
+            "proxy_type": "Balances",
+            "delay": 0
+        },
+        {
+            "delegate": "0xd6c45ec01180984a250ee7e0d39d97365c5a2471",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        },
+        {
+            "delegate": "0xfd841d04cc57c15230a5d87cfeb761228eadb083",
+            "proxy_type": "Governance",
+            "delay": 0
+        }
+    ],
+    "0xa81e324491058d10d17ee3602d6c52122632b998": [
+        {
+            "delegate": "0x556464d74a9e61d4e693acc77194b97a4eb120c8",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        }
+    ],
+    "0x5a83b06b55eae68f84efd084c64d37bac2cc1f0a": [
+        {
+            "delegate": "0x133788d4f1293887776638ac7b6e7e9910d917fb",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0x54ed1b8c4e4a2871bfbe0d5f2777468da69f77a2": [
+        {
+            "delegate": "0x133788d4f1293887776638ac7b6e7e9910d917fb",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0x800073c0856b5ec2fb236de1e9900bea0b7fa8c8": [
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "0xf8228d28ca1b86f5c1bc17d26e4a904fa77d53c2",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        }
+    ],
+    "0x06ce7f3d6e8217391cb8b73608a749009ae92be0": [
+        {
+            "delegate": "0x11d9e17b34a0796867c90c3aa01019d4b389addc",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xd0e44092357af131a7330eac9752be06d7121d7d",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        }
+    ],
+    "0x1f695652967615cde319fdf59dd65b22c380edc1": [
+        {
+            "delegate": "0x29c73bee1474c126fc9691e07ccf66d65f040f34",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x92a0ae743c9fa550a239f25dae712872fd85b52f": [
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x977272824135ca1552acd8b23b6e59335237a596",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0xff44f828fcb015e5f3a0228d83f439b7817b43be": [
+        {
+            "delegate": "0x0b7452aaf5c838df014b1a3db1c001aecfac3b83",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x25709038957e969e101f53cbbd0feb50f1d1a4b0",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        },
+        {
+            "delegate": "0x58ce55a4efd27f8fe836a1bcdd2bc7f0a81fa627",
+            "proxy_type": "CancelProxy",
+            "delay": 0
+        },
+        {
+            "delegate": "0x8ecb7ebf702b29264ca9877ccc9fc17aad53df08",
+            "proxy_type": "Balances",
+            "delay": 0
+        },
+        {
+            "delegate": "0xf8a2bb9f3960e4476e21cb1d4b93925b7f728a6b",
+            "proxy_type": "CancelProxy",
+            "delay": 0
+        },
+        {
+            "delegate": "0xfd841d04cc57c15230a5d87cfeb761228eadb083",
+            "proxy_type": "Governance",
+            "delay": 0
+        }
+    ],
+    "0xc54f704cec71381097341b213939c73a63af1b6e": [
+        {
+            "delegate": "0x251df7304c134cc6d75420b875bc96167f4589fe",
+            "proxy_type": "Balances",
+            "delay": 0
+        },
+        {
+            "delegate": "0x3208e9db346c0bea9e0149c4e72eb2e7f6b969c7",
+            "proxy_type": "Balances",
+            "delay": 0
+        }
+    ],
+    "0xf30f9eb23d9db6359489c8f82f068b81cb43f6c3": [
+        {
+            "delegate": "0x008762811a0c9642598911a0bcffb44e8da3de76",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0x85b46641d2f1c1c207d50c1d0e04f8e57c8cf2f8": [
+        {
+            "delegate": "0x456087a9a2062b249063b128c57ae039fc0a00d9",
+            "proxy_type": "Any",
+            "delay": 50400
+        }
+    ],
+    "0x58f18db389e5ad3d5d7f6c0f6e17c5c4aae438da": [
+        {
+            "delegate": "0x2ce82bf4c71fc7e92fc90b06372d2f3ff7e0c011",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "0x68a20678c2f0a4ec3e958610ea36e671d2332781",
+            "proxy_type": "Balances",
+            "delay": 0
+        }
+    ],
+    "0x72990280c6e37995f5a7446d7d420eb7bcd8ffa8": [
+        {
+            "delegate": "0x456087a9a2062b249063b128c57ae039fc0a00d9",
+            "proxy_type": "Any",
+            "delay": 50400
+        },
+        {
+            "delegate": "0x4f39541061ea31fc2f598f0bced63a359ae4dc48",
+            "proxy_type": "Any",
+            "delay": 50400
+        }
+    ],
+    "0xdd760a8f8ce5e4b5f9ff436ee7790c603d6294d0": [
+        {
+            "delegate": "0x716dd0dd723fed8fa7d6e097a76ae0d458906580",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        }
+    ],
+    "0x5d6d1a59fd3e6cf325faccbea4d1265b15d34acb": [
+        {
+            "delegate": "0x3b15372876585ec06542700ba4b7e42fc6a4f1d7",
+            "proxy_type": "Balances",
+            "delay": 0
+        },
+        {
+            "delegate": "0xa0f120fc8fb21280963618e5e007fade0de1f90c",
+            "proxy_type": "Balances",
+            "delay": 0
+        }
+    ],
+    "0xc26694a78039548b9aee363b1e12deb0f98f44dc": [
+        {
+            "delegate": "0xcc3985884c747d8a927ff132fb6211df8cbee289",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        }
+    ],
+    "0xd3dfa1fc4e5bb0a268ce149f6c5c2dec5a4083ce": [
+        {
+            "delegate": "0xc97c20237f228babe3c77956dabe7784186caf4d",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        },
+        {
+            "delegate": "0xcd2786432d46879a103fd4570e2cf5c4983af2be",
+            "proxy_type": "Governance",
+            "delay": 0
+        }
+    ],
+    "0xd9372fe7d1e9eb4c657292843a3ac535f7fc25bc": [
+        {
+            "delegate": "0x744f55da695d81e1493179ceded1db67a7d1f80c",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        }
+    ],
+    "0x119460ecc4c538a02307e5d4f687bb83eddc5cf9": [
+        {
+            "delegate": "0xf545f50b9a7e932fba309a18acf8b7753a315934",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x7f092fbf693b0d802aadd22f4a8909f7d08d5bc6": [
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "0xf6813d3f0a3f6928d40f78bc3c1450a90c40a4aa",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        }
+    ],
+    "0xf2a3d0e3336dcce72a0b17b5766dad55a91b9d77": [
+        {
+            "delegate": "0x133788d4f1293887776638ac7b6e7e9910d917fb",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0x7fa2033272db2e4116ce314fd789a3a148f2ed55": [
+        {
+            "delegate": "0xad3150d99df84b88bf9af686930d6a78d793c852",
+            "proxy_type": "Governance",
+            "delay": 0
+        },
+        {
+            "delegate": "0xad3150d99df84b88bf9af686930d6a78d793c852",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        },
+        {
+            "delegate": "0xebe76b042aec475dc8f6e996de41be12c6e8659e",
+            "proxy_type": "Governance",
+            "delay": 0
+        },
+        {
+            "delegate": "0xebe76b042aec475dc8f6e996de41be12c6e8659e",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        }
+    ],
+    "0x2a69b3c443e4843b82dfb54dd81350705db2c9b8": [
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x5a978e92c383a3f8edad281d1b62a5a219990e10",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0xcb95c0e6fcce0e78f62f7f809ab5ec161722fa17": [
+        {
+            "delegate": "0x456087a9a2062b249063b128c57ae039fc0a00d9",
+            "proxy_type": "Any",
+            "delay": 28800
+        },
+        {
+            "delegate": "0x4f39541061ea31fc2f598f0bced63a359ae4dc48",
+            "proxy_type": "Any",
+            "delay": 28800
+        }
+    ],
+    "0x8262f26cad7855061a9be91f8a7e1896225fd066": [
+        {
+            "delegate": "0x3c0f3ce4d2fadf25da46dc49cd3fe63bd128b548",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        }
+    ],
+    "0xc6956173029911a93483e00ec4c5378f1aaf37f1": [
+        {
+            "delegate": "0x456087a9a2062b249063b128c57ae039fc0a00d9",
+            "proxy_type": "Any",
+            "delay": 50400
+        },
+        {
+            "delegate": "0x4f39541061ea31fc2f598f0bced63a359ae4dc48",
+            "proxy_type": "Any",
+            "delay": 50400
+        }
+    ],
+    "0x1d4492c570c226c724c906ca9fe5b7116461a370": [
+        {
+            "delegate": "0x23e8a745062874355f391acf4677fc69bdc52626",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x01bb6ce8b88f09a7d0bfb40eff7f2ad5e0df2e98": [
+        {
+            "delegate": "0x23e8a745062874355f391acf4677fc69bdc52626",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x7a4df7e2cb26b8d32b72043409f857b21c3ceff4",
+            "proxy_type": "Balances",
+            "delay": 0
+        },
+        {
+            "delegate": "0x98c5eecffdb6c8ee3c18f6fbd8e498763bb40b83",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0xc0037486317c52ccdb615c6461faeff94fa6e4f5": [
+        {
+            "delegate": "0x6bf2153f49fa2cc6bfd2f1c1314dd42ac03d437d",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0x1f692375bf0e3668d29f3c2fec488ccb34896352": [
+        {
+            "delegate": "0x744f55da695d81e1493179ceded1db67a7d1f80c",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        }
+    ],
+    "0x46b4b637d5c3a7924aca4932b2546bb5f77ae07b": [
+        {
+            "delegate": "0x5826d86a14ae3817a35a502bbf27f79bb6f5081d",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x9a20f28df93ac3ae73ae4e8d4e7cac17cc97e154",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xcee609bcc8ef06dbbe7b35c1306edd162a9f7ecd",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0xfc1084962de75e1480bbbb5a0909fe8e1498977d": [
+        {
+            "delegate": "0x4999fa014a1c5d4ee37f8dc3c4f8b8b3ef451218",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        },
+        {
+            "delegate": "0x68b982d418b90d4ffd5f005604729b76c92dcb92",
+            "proxy_type": "Balances",
+            "delay": 0
+        },
+        {
+            "delegate": "0xea8f2197315d17e3b20b32ffb8b2f717b2c14e8f",
+            "proxy_type": "Governance",
+            "delay": 0
+        }
+    ],
+    "0x97292e7fb192323faa3490fb084c1a450278206c": [
+        {
+            "delegate": "0x456087a9a2062b249063b128c57ae039fc0a00d9",
+            "proxy_type": "Any",
+            "delay": 28800
+        },
+        {
+            "delegate": "0x4f39541061ea31fc2f598f0bced63a359ae4dc48",
+            "proxy_type": "Any",
+            "delay": 28800
+        }
+    ],
+    "0xc99ee265780d05d7ab9c6c4b0b60c5caab355ac8": [
+        {
+            "delegate": "0xfd79677c8593712261971d9be47e9346c3847115",
+            "proxy_type": "Governance",
+            "delay": 0
+        }
+    ],
+    "0x365cb79b68552a44ecce2cfc698de5edfaf452c0": [
+        {
+            "delegate": "0x456087a9a2062b249063b128c57ae039fc0a00d9",
+            "proxy_type": "Any",
+            "delay": 50400
+        },
+        {
+            "delegate": "0x4f39541061ea31fc2f598f0bced63a359ae4dc48",
+            "proxy_type": "Any",
+            "delay": 50400
+        }
+    ],
+    "0x02a28a296dfc6be50199e6a877b0b981055da8e7": [
+        {
+            "delegate": "0x23e8a745062874355f391acf4677fc69bdc52626",
+            "proxy_type": "Governance",
+            "delay": 0
+        },
+        {
+            "delegate": "0x23e8a745062874355f391acf4677fc69bdc52626",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x3dc91d2b70e5b3280a756b0af261826613fed9cf",
+            "proxy_type": "CancelProxy",
+            "delay": 0
+        },
+        {
+            "delegate": "0x98c5eecffdb6c8ee3c18f6fbd8e498763bb40b83",
+            "proxy_type": "Governance",
+            "delay": 0
+        },
+        {
+            "delegate": "0x98c5eecffdb6c8ee3c18f6fbd8e498763bb40b83",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xba44de5214e2438cf701474aa1d05a0e0fb69012",
+            "proxy_type": "Balances",
+            "delay": 14400
+        }
+    ],
+    "0x8febbd25a739efe1aa995c5d57f547281a7898ee": [
+        {
+            "delegate": "0xd87a651758e64d8c7feca3abbb26f8e8160cf92f",
+            "proxy_type": "Governance",
+            "delay": 0
+        }
+    ],
+    "0x6096a07eb59fc6f4e8e66e97a0959729d79e9da8": [
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x74c2a581cc7934b55fc0084f53ab05fb17c7f42c",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x4776bbe1896d517bb81466b28d88e8ded80ed110": [
+        {
+            "delegate": "0x3c8a0d9dbaf1232d56a14836d446649e4ff9f07c",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0x068c67fa2c877b8eb0ce37a0f77617330eb04e72": [
+        {
+            "delegate": "0x228ab473a29c713477c073d550c0949d00c2d665",
+            "proxy_type": "Governance",
+            "delay": 0
+        },
+        {
+            "delegate": "0x3b7f8e2b70090794c53add43dfb99ed6be675aa0",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x506f7f3aebadf36ebc58e3f2dac1570a78e40797",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        }
+    ],
+    "0x5797a7bf17dd80b9ad67d6f5cba777e5137f2171": [
+        {
+            "delegate": "0x133788d4f1293887776638ac7b6e7e9910d917fb",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0xf066aa68bf435ad95a39d0d9cb460b12d3dbb936": [
+        {
+            "delegate": "0x1b99304b6d53f32d229d4fc0eb1ed6f116147b2a",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x6113c6532fdce31c9677c65937da186363a8a568": [
+        {
+            "delegate": "0x744f55da695d81e1493179ceded1db67a7d1f80c",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        }
+    ],
+    "0x8134502ddcd2598d8f40f7b35a59c77c6bff1f6a": [
+        {
+            "delegate": "0xfbaf33927167ed0d1318b4eacc71232c22a3126f",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x54e1908b7869c012d1fb73fa61aac2317f447235": [
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x9b0c756e058819c6fec3c8305ee5a9a4dde99122",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0xc57ce381ee8b500ddb2940083b5d1d05958a1b00": [
+        {
+            "delegate": "0x1bf509181d113e93de7bd1b737cb31e4874ae2e1",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        },
+        {
+            "delegate": "0x7639cf0d4f4596dec1139986bc8f5878deafeb3b",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        },
+        {
+            "delegate": "0x88dad45d1a8c6fc39035c4857cf2e2c7f861d828",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        }
+    ],
+    "0xe751b9ea560a200161d1b70249495e3d22ec5b00": [
+        {
+            "delegate": "0x23e8a745062874355f391acf4677fc69bdc52626",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x7a4df7e2cb26b8d32b72043409f857b21c3ceff4",
+            "proxy_type": "Balances",
+            "delay": 0
+        },
+        {
+            "delegate": "0x98c5eecffdb6c8ee3c18f6fbd8e498763bb40b83",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0xc71e1b15efabf6562d428b12a728c8102b89b233": [
+        {
+            "delegate": "0x6153ebdd5a4af577fc7182a98edc9a359c82c368",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x81cff1b8cd26c2c80a9ccd258942f33cfe7bac3b": [
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x8bad00f18e6a5df2323407cab32219c7feb06b15",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x1f1ccee550b395560137a6cc3a49d4a9b587ac49": [
+        {
+            "delegate": "0x23e8a745062874355f391acf4677fc69bdc52626",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x6e531bec556a168a503bf439c7dd9975eb711649": [
+        {
+            "delegate": "0x2d70d1b2d3fb67b4328d2f43f0131150771f0bcc",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0xa0850f4506766d2da309184f6275a997e57499a7": [
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xed8b97a9a7c8decf3da53b6ab93ec2c8b5a241b4",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0xcb4b3bf2d527f42368c0b4e17aa894e348fc1806": [
+        {
+            "delegate": "0xd3878bee251b1fd8bab898666fc65086fbb23312",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        }
+    ],
+    "0xaa115d9a5e2451061e6553d97bee363db02cb6e1": [
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "0xf1d286d0d353b9c66b83eb317f382c683b3d4098",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        }
+    ],
+    "0xcca1f07c35b2ea83de46c11962731f27afe89fa6": [
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x89dab0e5f169aa7e632cbedabedb191c7fab40a9",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0xa5dd1d61c59278a72d737bd4a5a841c7159eb733": [
+        {
+            "delegate": "0x3644186bc90ef54f01ed260f210285e95c18b11c",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        }
+    ],
+    "0x0a684932ddcc371083a4bb356e54fa4820b8e633": [
+        {
+            "delegate": "0x133788d4f1293887776638ac7b6e7e9910d917fb",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0x763c36f1c730e7dfa572ebc13d550f19bb137cf3": [
+        {
+            "delegate": "0x16095c509f728721ad19a51704fc39116157be3a",
+            "proxy_type": "Governance",
+            "delay": 0
+        }
+    ],
+    "0x564e8464a616bae3c366467ed572c3d2ae8b9e63": [
+        {
+            "delegate": "0xc97c20237f228babe3c77956dabe7784186caf4d",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        },
+        {
+            "delegate": "0xcd2786432d46879a103fd4570e2cf5c4983af2be",
+            "proxy_type": "Governance",
+            "delay": 0
+        }
+    ],
+    "0xc539960d1a033d328986dbd92a52617c68814053": [
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x976615de7663f2064d7ef90ec6edff0837c7fc62",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0xa9e0c38074721590c8fad5e8e5c8097595e6cd90": [
+        {
+            "delegate": "0x2f3ae9923edcd6ba158d584bb5c953f0a6cdec71",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x54d91ff83f48837a113ef60db336e3b3cc05a6c1": [
+        {
+            "delegate": "0x23e8a745062874355f391acf4677fc69bdc52626",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0xc89cebbc7c91caa368e1f9c45ae08096e6a07c08": [
+        {
+            "delegate": "0x3644186bc90ef54f01ed260f210285e95c18b11c",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        }
+    ],
+    "0xa7a90288c60f9361544194d8092e2d67567e75cb": [
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xcecbdf6499e6d78c18c704591f1202b33f6364d6",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0xe596665a52d9bb37865b3a9264ffe038be08f28d": [
+        {
+            "delegate": "0x3c0f3ce4d2fadf25da46dc49cd3fe63bd128b548",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        }
+    ],
+    "0xe7fe695792bf7bb178b55fab45ae74affd884ca8": [
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xe0bc67a8a0d902b5a17d973fae92b9b82c9190f1",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0xb28cfae92fd637b99f05bc83c829a31b2d4a7d09": [
+        {
+            "delegate": "0x744f55da695d81e1493179ceded1db67a7d1f80c",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        }
+    ],
+    "0x5f1d4e53289ac3b7a956683fcd43b5a042446973": [
+        {
+            "delegate": "0x7368180aa8d19f2b5c08ba994d1099f2013071e2",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0x93c5e01676dc61b22facb229fc2269fbac84ec34",
+            "proxy_type": "Balances",
+            "delay": 0
+        }
+    ],
+    "0x111141269142d8a1bc8f949bfff7df227ee8d76a": [
+        {
+            "delegate": "0x88544860a44c78c194bb1a0a6bbf604e7edf01de",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        }
+    ],
+    "0x8529465d6dcaaa6824dcf0a7f5ee6a12d46a8a31": [
+        {
+            "delegate": "0x6968282fa52cb94f7c16c42ba9d5a1e8ffbf8028",
+            "proxy_type": "Governance",
+            "delay": 0
+        }
+    ],
+    "0xeab597b91b66d9c3ea5e3a39e22c524c287d61a5": [
+        {
+            "delegate": "0xcdc9debb14e44e81215fa6c6098aaec5eeb659b0",
+            "proxy_type": "IdentityJudgement",
+            "delay": 0
+        }
+    ],
+    "0x545e2dc0fe5a7336993d2019aae520f121744074": [
+        {
+            "delegate": "0x30932d37f55d6c6b971b21bcd4f06afbfa6e6ddc",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x8f6d11c80050c6d5af18bec374dc73d85ec801c4": [
+        {
+            "delegate": "0x23e8a745062874355f391acf4677fc69bdc52626",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x98c5eecffdb6c8ee3c18f6fbd8e498763bb40b83",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0x98091cad1243f4a6d2454a7f0ca3258fb053c152": [
+        {
+            "delegate": "0x456087a9a2062b249063b128c57ae039fc0a00d9",
+            "proxy_type": "Any",
+            "delay": 50400
+        },
+        {
+            "delegate": "0x4f39541061ea31fc2f598f0bced63a359ae4dc48",
+            "proxy_type": "Any",
+            "delay": 50400
+        }
+    ],
+    "0xd53f505dd7c6775b86c98998d4ff18ebbbe0c430": [
+        {
+            "delegate": "0x3029eb86fe12fac4c43abac0693bf25eab1b021e",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        }
+    ],
+    "0x07c4ee9cd91ecad86ad28ecb8315bc534c996013": [
+        {
+            "delegate": "0x2a81eefa7bfb545d2555cef43f2f90e095a543fb",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0xf7db2f2fd217a09e1f02659bca02a609a4b86b18": [
+        {
+            "delegate": "0x5951b6d267a87071d27a61b1df675c120f9bf799",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x68a20678c2f0a4ec3e958610ea36e671d2332781",
+            "proxy_type": "Balances",
+            "delay": 0
+        }
+    ],
+    "0x205436dc85011c3d3bc620255f9a56699e93486c": [
+        {
+            "delegate": "0x33d626103cdb388b93884637954a2a91c76af586",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0x35ac93aedb902440154cd90d6c1c25884775bf46": [
+        {
+            "delegate": "0x2df9b81926adc313175813d8a673df86f2770265",
+            "proxy_type": "Balances",
+            "delay": 0
+        },
+        {
+            "delegate": "0xeb79385f42b5378a6b65ee6e54484507ba8164dd",
+            "proxy_type": "Governance",
+            "delay": 0
+        },
+        {
+            "delegate": "0xeb79385f42b5378a6b65ee6e54484507ba8164dd",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        }
+    ],
+    "0x819f57335ed67e97f160338150ad45fbdddabd26": [
+        {
+            "delegate": "0x0093a79f824e2bfa7d746292cb9dbdb8bd4c8419",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x68428c7b7afe8ff4e45c7f31648895ac5a250f18": [
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xcecbdf6499e6d78c18c704591f1202b33f6364d6",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0xc8443886949bcd13f3c7d7479c017ceb6f824a9a": [
+        {
+            "delegate": "0x340d8261a3f5941f2454b973d83028947566e231",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x64cdff6aa0119b096d557f75b593fdce095879dd",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xf614611651ce21e92a3cfe700a89ce20aed81b64",
+            "proxy_type": "Governance",
+            "delay": 0
+        }
+    ],
+    "0x885868ebe6087b23e7f9d595209a6d8edf6db32b": [
+        {
+            "delegate": "0xdd760a8f8ce5e4b5f9ff436ee7790c603d6294d0",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        }
+    ],
+    "0xf282529a89e131791f15ca45d32c6e1267987ced": [
+        {
+            "delegate": "0x133788d4f1293887776638ac7b6e7e9910d917fb",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0xa6d7505859a7f0c264729b5ac1d9543f060dc61c": [
+        {
+            "delegate": "0x23e8a745062874355f391acf4677fc69bdc52626",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x79bd42d3d6fb8a9a04f17fa8d0f0860297b3617f": [
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "0xfbb93a11e8dd76e37b781e345d51a926dbc2599c",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        }
+    ],
+    "0x5fa65540dec0d9574e987a20ed50b05c1a7084b2": [
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x5567870395708dc5aa4e49a7f48bb23b56ecb44b",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0xbe6e642b25fa7925afa1600c48ab9aa3461dc7f1": [
+        {
+            "delegate": "0xb35ff845b667ba3b06638b9714da0b795458e983",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        }
+    ],
+    "0xdcbb14685629e933aabe056186c2dbd57c26953d": [
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xd16f03f79e99580e55eac40eff82fe3fb952781b",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0xd54f25899ee9e745381d509860a272502ff1ecf4": [
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x81c4cad6353a3f14433503e7976b16b0adb00a08",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x841b5952e28e02e7f201bc3b7489281a1885f6cf": [
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xd16f03f79e99580e55eac40eff82fe3fb952781b",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x10a75c8b30543dae7ff2ed6704c1bf769b3376b5": [
+        {
+            "delegate": "0x2719c3b290189dc43abd179a35a438dc2baa47e3",
+            "proxy_type": "Governance",
+            "delay": 0
+        },
+        {
+            "delegate": "0x948cdcf0102d948fd391256682d666e52ce65e86",
+            "proxy_type": "Governance",
+            "delay": 0
+        }
+    ],
+    "0x565d10a05345a23707f554f0468daab89d5ad672": [
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x977272824135ca1552acd8b23b6e59335237a596",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x5c68ce6100f980ced708bd89cce028840ac6bda9": [
+        {
+            "delegate": "0x23d733124ead8c97c2456d22657084d3c5419f82",
+            "proxy_type": "Governance",
+            "delay": 0
+        }
+    ],
+    "0x4af0a845c374c6bf114c02dbc29ef93fbdd2ab11": [
+        {
+            "delegate": "0xc780e801fda0a46e4a92257ae5329040a02e1e35",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0xf36961d23cb5ab90628c09aed1757328916d530b": [
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xb641762fd7f31e189c21a2ac396124054f73f6e9",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0xef3bbcb9df930c9ba9e12d9856a34626ae3d9963",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x8c599e8f9b5d15d3adf89d856f34ffec8de0b2c6": [
+        {
+            "delegate": "0x3b15372876585ec06542700ba4b7e42fc6a4f1d7",
+            "proxy_type": "Balances",
+            "delay": 0
+        },
+        {
+            "delegate": "0xa0f120fc8fb21280963618e5e007fade0de1f90c",
+            "proxy_type": "Balances",
+            "delay": 0
+        }
+    ],
+    "0xcc94266f332a55740e8aa702e1149e5d39e961dd": [
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "0xf4a796adf95b389573e7de77377edab445eb2efc",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        }
+    ],
+    "0x9bb3539b0c72993da05b5cfd5849b2f3b8191578": [
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "0xf6813d3f0a3f6928d40f78bc3c1450a90c40a4aa",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        }
+    ],
+    "0xd08a6747cd180a149d92fa879f535728b1a92633": [
+        {
+            "delegate": "0x23e8a745062874355f391acf4677fc69bdc52626",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x0fea296eefb49959206070c5dd2a780f254c96bd": [
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "0xfc2b54c56721c689ebe221fba9cf3bf38070009e",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        }
+    ],
+    "0xf2da8fc58d7ce95fe272a54956233129ed4fc145": [
+        {
+            "delegate": "0x133788d4f1293887776638ac7b6e7e9910d917fb",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        }
+    ],
+    "0x791c348ef1e0f78a68326e0063f0a038bfa04988": [
+        {
+            "delegate": "0x744f55da695d81e1493179ceded1db67a7d1f80c",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        }
+    ],
+    "0xab4b115b2d23ef8da7b0aa54fc074fb4c6886441": [
+        {
+            "delegate": "0x6bb88cb67c1abe47c5cc50f6d4de63086212c400",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        },
+        {
+            "delegate": "0x728507ec8f967bcb5faff3d238059ce1eb99b828",
+            "proxy_type": "Balances",
+            "delay": 0
+        },
+        {
+            "delegate": "0xa0ebf87cb5bff0119658da58bcbce777c3aa6d87",
+            "proxy_type": "Governance",
+            "delay": 0
+        },
+        {
+            "delegate": "0xb461ac4f16ce7150131018895f8b01140943acfd",
+            "proxy_type": "Governance",
+            "delay": 0
+        },
+        {
+            "delegate": "0xef0820040fc3a01e69d1aaa8271e5c8afaadfec7",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xef0820040fc3a01e69d1aaa8271e5c8afaadfec7",
+            "proxy_type": "IdentityJudgement",
+            "delay": 0
+        }
+    ],
+    "0x71a30f3b36e29ac78f3e94f446b938f19f0b40e7": [
+        {
+            "delegate": "0x23e8a745062874355f391acf4677fc69bdc52626",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x98c5eecffdb6c8ee3c18f6fbd8e498763bb40b83",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xcfbf79a75a35baa595b7e0d376c87fa47f6ef3da",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0x9eea5bc566031840743e3efc8f7919fc393e1573": [
+        {
+            "delegate": "0x5910a31f8c2e16beb889cde893b0e55efc468971",
+            "proxy_type": "Governance",
+            "delay": 0
+        },
+        {
+            "delegate": "0xa6c44727dc28953b621c68d38895455398e48ee9",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        }
+    ],
+    "0x212d901444c9b57fcd4b29b6d4622c086c8bc5c2": [
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x81c4cad6353a3f14433503e7976b16b0adb00a08",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x58587e945c161f5c98c20bf2e7eec135f0a5d676": [
+        {
+            "delegate": "0x6070482659ddd1c7c2915b961fa2cba49e452d5d",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        }
+    ],
+    "0x72e02f23c0953cf00de519eb089d568a8f1e3540": [
+        {
+            "delegate": "0x352d7738879586e7c68ff5a367e84ba1ca11a39d",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x44ed16244629d97a8bbc1090aed16ffba2f717ff": [
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x71f8297cd6e3f8b6af9363f7cf746551255d864e",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x5774ded9cd0ebe35bbc661d2a845497541b7c5d4": [
+        {
+            "delegate": "0x23e8a745062874355f391acf4677fc69bdc52626",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x98c5eecffdb6c8ee3c18f6fbd8e498763bb40b83",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0x1c2ff40305e3c346df25c2ce6c7b8072a0f1116b": [
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x977272824135ca1552acd8b23b6e59335237a596",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x82473b1da504bbecd0bbacb6e0aea62b5c0cdbd4": [
+        {
+            "delegate": "0x88dad45d1a8c6fc39035c4857cf2e2c7f861d828",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0x8569f0dbd46ed5eb3d7208114b925ce05b80597e": [
+        {
+            "delegate": "0x36f19174d28143c24daedb1091f570264939c94b",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0xfeca2a8364461b64252721e19c2584200f9c54cd": [
+        {
+            "delegate": "0x1ceabfa2a901e87e5d9dbfbf7549b2d934301f7c",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0xecca07badbd38937122b82ec8afcf86b1e2b7939": [
+        {
+            "delegate": "0x05d3cc28657e0381cf9faf75a1337f599f4369b8",
+            "proxy_type": "Balances",
+            "delay": 0
+        },
+        {
+            "delegate": "0x82507c381d3e538bccbb9f0325a6b7d0c7648773",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        }
+    ],
+    "0xa5e628a9b2f31b074810bcbe6bfb248d85afa64a": [
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x976615de7663f2064d7ef90ec6edff0837c7fc62",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x0344cb6a7acb0f074237943e2ffb0bfce6e6c1fc": [
+        {
+            "delegate": "0x456087a9a2062b249063b128c57ae039fc0a00d9",
+            "proxy_type": "Any",
+            "delay": 50400
+        },
+        {
+            "delegate": "0x4f39541061ea31fc2f598f0bced63a359ae4dc48",
+            "proxy_type": "Any",
+            "delay": 50400
+        }
+    ],
+    "0xd96543ecc28e9c645c750bf7a5c0d3e2fd2f33ca": [
+        {
+            "delegate": "0x314edb88c10f1605422419af8ab49fc4decf88fe",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x2ea0f36e9f9c870af177b2661ac18ba26b50215e": [
+        {
+            "delegate": "0x23e8a745062874355f391acf4677fc69bdc52626",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x397b4dd0c5aa24715074a89641f7438a07417e79": [
+        {
+            "delegate": "0x66417fbff81c1792fbf3c35b467345b51be31cf6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x977272824135ca1552acd8b23b6e59335237a596": [
+        {
+            "delegate": "0x3877f2adaa6e8b1bdba056472f3e8a7e2036c4bf",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "0x4a7e02d526c1af6b0fbd04a8685e3a289ec3527e",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x471ac074b60dab1ce62eec90b766a7e3da5719bf": [
+        {
+            "delegate": "0x456087a9a2062b249063b128c57ae039fc0a00d9",
+            "proxy_type": "Any",
+            "delay": 50400
+        },
+        {
+            "delegate": "0x4f39541061ea31fc2f598f0bced63a359ae4dc48",
+            "proxy_type": "Any",
+            "delay": 50400
+        }
+    ],
+    "0xa21e0c8154df29a06cfef16b9937f62b465cd3d7": [
+        {
+            "delegate": "0x23e8a745062874355f391acf4677fc69bdc52626",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0x98c5eecffdb6c8ee3c18f6fbd8e498763bb40b83",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        }
+    ],
+    "0x9403dbad777e9e93ac60b895dcc89fd9563aadb2": [
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xac29a7fba1f44ac04b18dcea1dda73a878e6a78f",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0xf49adbcb589037d1319fb19a4c2af8d61206b72b": [
+        {
+            "delegate": "0x23e8a745062874355f391acf4677fc69bdc52626",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x98c5eecffdb6c8ee3c18f6fbd8e498763bb40b83",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0x35022d194413568c1f2a30db08c4fd0e8f6a555f": [
+        {
+            "delegate": "0x2d70d1b2d3fb67b4328d2f43f0131150771f0bcc",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x7369626cdb070000000000000000000000000000": [
+        {
+            "delegate": "0x25481f006185724e9ec1a5eaf08c270f6cba3c7e",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0xd90373a577eecea938aff35cd065827797eccf55": [
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "0xf6813d3f0a3f6928d40f78bc3c1450a90c40a4aa",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        }
+    ],
+    "0x4fadbd3a6e6ff1cd17ada64eb79be168ce32cf7c": [
+        {
+            "delegate": "0xc97c20237f228babe3c77956dabe7784186caf4d",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        },
+        {
+            "delegate": "0xcd2786432d46879a103fd4570e2cf5c4983af2be",
+            "proxy_type": "Governance",
+            "delay": 0
+        }
+    ],
+    "0xf6e382783d10ecd987ba9afdf9e9fd1294a90891": [
+        {
+            "delegate": "0xf93989f7c4f34b1d8883d8f5ab850cd4f7557bfe",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0xa345728816d83533a24bf1d980009f3b01cec2fe": [
+        {
+            "delegate": "0xc209e6d7c4be03465ec226b8b2fd359abce0e349",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        }
+    ],
+    "0xa1e5e3c161bceb944b655364a6848f47c6e93b56": [
+        {
+            "delegate": "0xcf0cedb3da18bfc0d957f7873bb3139231dbcea3",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        }
+    ],
+    "0x7ce2de8a627eec28f2b54dc9bcbd2bcfb33a469b": [
+        {
+            "delegate": "0x23e8a745062874355f391acf4677fc69bdc52626",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x1d4dd1bd8d1f26b631b69396a9cbf7bf7c373073": [
+        {
+            "delegate": "0xe34d5e87843895dc206aa83750886b840f2f8a5a",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        },
+        {
+            "delegate": "0xfa4fafac76a25ac8c22a743e2678381400258c23",
+            "proxy_type": "Governance",
+            "delay": 0
+        }
+    ],
+    "0x418671c5e8e14095720bae1f063df18c6414239b": [
+        {
+            "delegate": "0x456087a9a2062b249063b128c57ae039fc0a00d9",
+            "proxy_type": "Any",
+            "delay": 50400
+        },
+        {
+            "delegate": "0x4f39541061ea31fc2f598f0bced63a359ae4dc48",
+            "proxy_type": "Any",
+            "delay": 50400
+        }
+    ],
+    "0x6cd7e7292ad0cef95af3021a6a396cf0ee4624f4": [
+        {
+            "delegate": "0x687533cc5f3edf5b3d8e3dadefee4ee82ab38e41",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        }
+    ],
+    "0x376dfc67b18ce2c2f1e16a43056d8d70f2f12c9e": [
+        {
+            "delegate": "0xceea58bf122c66e561c976f5c4d99f01ad79c571",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0xfb43cc3136a81d6df94b92637b007f0235b92563": [
+        {
+            "delegate": "0x456087a9a2062b249063b128c57ae039fc0a00d9",
+            "proxy_type": "Any",
+            "delay": 50400
+        },
+        {
+            "delegate": "0x4f39541061ea31fc2f598f0bced63a359ae4dc48",
+            "proxy_type": "Any",
+            "delay": 50400
+        }
+    ],
+    "0xfc02d8861d624d89e1c4c364a5d534aed0e75b45": [
+        {
+            "delegate": "0x06ac5fe4eee12a35e996571ef1f72ea237eec806",
+            "proxy_type": "Governance",
+            "delay": 0
+        },
+        {
+            "delegate": "0x8134502ddcd2598d8f40f7b35a59c77c6bff1f6a",
+            "proxy_type": "Governance",
+            "delay": 0
+        }
+    ],
+    "0x04e9578c87415cfba6f4f3fbcf275c60a01bcee4": [
+        {
+            "delegate": "0x36f19174d28143c24daedb1091f570264939c94b",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x0000500321a7a9c61a332049726e01156b5872c0": [
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x5eac16c511e697f963a16109ca78f912c91b54ff",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0xe20d06509ec003d4bde798318eb2b54fb0222b9e": [
+        {
+            "delegate": "0x0ca09a4b04445295106c660c295421307a264d0c",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        }
+    ],
+    "0x0663aa7beb6a9229fc5a016ffc81c0f133442a54": [
+        {
+            "delegate": "0x3b15372876585ec06542700ba4b7e42fc6a4f1d7",
+            "proxy_type": "Balances",
+            "delay": 0
+        },
+        {
+            "delegate": "0xa0f120fc8fb21280963618e5e007fade0de1f90c",
+            "proxy_type": "Balances",
+            "delay": 0
+        }
+    ],
+    "0x0e1d772fa771e6f77dc2ff20506ae662aac214b7": [
+        {
+            "delegate": "0xd85f627e994775e88e85b4bd407f66c31109c39d",
+            "proxy_type": "Governance",
+            "delay": 0
+        }
+    ],
+    "0x98891e5fd24ef33a488a47101f65d212ff6e650e": [
+        {
+            "delegate": "0x2078fca19b5c44a06eb4d808af8869f90c197d45",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x948cdcf0102d948fd391256682d666e52ce65e86": [
+        {
+            "delegate": "0xc30b060c346421f71e13fee6d2c154b39e3eedab",
+            "proxy_type": "Governance",
+            "delay": 0
+        }
+    ],
+    "0xf00329bda60a56d1d380a3b67e22f921f0ed8b39": [
+        {
+            "delegate": "0x47a15e9165ee60164d0c3c84b2227989698820ad",
+            "proxy_type": "Governance",
+            "delay": 0
+        }
+    ],
+    "0x93041c0aa0b6e96c4e5f98831c58673f2e318274": [
+        {
+            "delegate": "0x456087a9a2062b249063b128c57ae039fc0a00d9",
+            "proxy_type": "Any",
+            "delay": 50400
+        },
+        {
+            "delegate": "0x4f39541061ea31fc2f598f0bced63a359ae4dc48",
+            "proxy_type": "Any",
+            "delay": 50400
+        }
+    ],
+    "0x9e754763e08a6126b59eff0ccc156e375881f253": [
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x74c2a581cc7934b55fc0084f53ab05fb17c7f42c",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x023fd06bc8f0ddb83715abab5e4e96dfb5a46e8f": [
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x54888b46b7682778f258e6351a7af9042edb504a",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x8c8bac8b1494d1d30cebe1729343eeb95ec6528a": [
+        {
+            "delegate": "0x166ffa212e615d0903114d61fd54f3073dd6f009",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x19a33cad2d311830550b41165d5fabf578347f3a": [
+        {
+            "delegate": "0x13c49f2befdd20cac7a4db3da3d7af04a303edc9",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0xd8447f4d8d8920aa81a5b893ce3d32658363809c": [
+        {
+            "delegate": "0x133788d4f1293887776638ac7b6e7e9910d917fb",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0x004773bef1d5921ef371c86ecc6b50260301d14a": [
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x8bad00f18e6a5df2323407cab32219c7feb06b15",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0xd0ae4f927db4d4adf162336f4f088b02f24f7e09": [
+        {
+            "delegate": "0x456087a9a2062b249063b128c57ae039fc0a00d9",
+            "proxy_type": "Any",
+            "delay": 50400
+        },
+        {
+            "delegate": "0x4f39541061ea31fc2f598f0bced63a359ae4dc48",
+            "proxy_type": "Any",
+            "delay": 50400
+        }
+    ],
+    "0xca98d4378393040408100f490bf98b03f5e7deb7": [
+        {
+            "delegate": "0xd94c4959e389c1041071816ff6f7fdf0feeea88e",
+            "proxy_type": "Governance",
+            "delay": 0
+        },
+        {
+            "delegate": "0xd94c4959e389c1041071816ff6f7fdf0feeea88e",
+            "proxy_type": "Balances",
+            "delay": 0
+        },
+        {
+            "delegate": "0xd94c4959e389c1041071816ff6f7fdf0feeea88e",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        }
+    ],
+    "0x569be8d8b04538318e1722f6e375fd381d2da865": [
+        {
+            "delegate": "0x6caf207e417ec88ef35b59e169096b7e1366128f",
+            "proxy_type": "Governance",
+            "delay": 0
+        }
+    ],
+    "0xe22d73f5dcccb31a994ad4e7ad265cf69b4e725a": [
+        {
+            "delegate": "0x23e8a745062874355f391acf4677fc69bdc52626",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x7a4df7e2cb26b8d32b72043409f857b21c3ceff4",
+            "proxy_type": "Balances",
+            "delay": 0
+        },
+        {
+            "delegate": "0x98c5eecffdb6c8ee3c18f6fbd8e498763bb40b83",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0x9ec9ff9deded91a7bf8570435bf52397bcafdf37": [
+        {
+            "delegate": "0x23e8a745062874355f391acf4677fc69bdc52626",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x98c5eecffdb6c8ee3c18f6fbd8e498763bb40b83",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0xd70bc3e2933467012d543dd022a67ff6e0ceb076": [
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xe4ed91e2919b95d9668080e508660e0947ea2eb3",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0xe4ed91e2919b95d9668080e508660e0947ea2eb3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x6ad8efab6f70276ceb77eb04c38bd59ec2c92f64": [
+        {
+            "delegate": "0x10023fa70ed528e4f28915bf210f6e87b057c08e",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        }
+    ],
+    "0xb4df58be9a530a01fdc3ceb01c9759f2a8967cbb": [
+        {
+            "delegate": "0x82507c381d3e538bccbb9f0325a6b7d0c7648773",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0x5826d86a14ae3817a35a502bbf27f79bb6f5081d": [
+        {
+            "delegate": "0x4138574878c133d3a12009d6f54b8f26de700834",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0xf5fe1e0f92a2d7a8e0d848e8327e24fffd2718a3": [
+        {
+            "delegate": "0x23e8a745062874355f391acf4677fc69bdc52626",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x7a4df7e2cb26b8d32b72043409f857b21c3ceff4",
+            "proxy_type": "Balances",
+            "delay": 0
+        },
+        {
+            "delegate": "0x98c5eecffdb6c8ee3c18f6fbd8e498763bb40b83",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0xf188c3c00a3abb1820b0168e7fa361089f0df6dd": [
+        {
+            "delegate": "0x744f55da695d81e1493179ceded1db67a7d1f80c",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        }
+    ],
+    "0xb3e64ef8fc9df438c9a54f4b189eddc1807b55a5": [
+        {
+            "delegate": "0x23e8a745062874355f391acf4677fc69bdc52626",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x7a4df7e2cb26b8d32b72043409f857b21c3ceff4",
+            "proxy_type": "Balances",
+            "delay": 0
+        },
+        {
+            "delegate": "0x98c5eecffdb6c8ee3c18f6fbd8e498763bb40b83",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0xe6baeb58ab0c7c1d7319866d514ac7cb709a27b2": [
+        {
+            "delegate": "0x62c5ed19de77dd4ebb5ac7fac86643245cf11f3f",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0x62c5ed19de77dd4ebb5ac7fac86643245cf11f3f",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0x816ec8b3be01392aaa486bca910ce64f6d6b15ad": [
+        {
+            "delegate": "0xd6c6ba8079c0d640804526241ec68bba09b0f7e1",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0x579279366af138ca8b8a467f8aa8bc7e03d314f9": [
+        {
+            "delegate": "0x620624cf698d8526b8853b61dd8dbfc445bceda2",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        }
+    ],
+    "0xdf4df4f4b8ff5547aaf5e99ac61f4da262f4dcf7": [
+        {
+            "delegate": "0x133788d4f1293887776638ac7b6e7e9910d917fb",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0x6df05cbd5113261dd0f63fb8ce89fc0e236b844e": [
+        {
+            "delegate": "0x3c8a0d9dbaf1232d56a14836d446649e4ff9f07c",
+            "proxy_type": "Balances",
+            "delay": 0
+        }
+    ],
+    "0xd9ffab42f9a2de10c2c920eb8d333e01cd5fb4a6": [
+        {
+            "delegate": "0x0ff5f380a2658c48b445e4739d4d17c36f47cc7a",
+            "proxy_type": "Balances",
+            "delay": 0
+        },
+        {
+            "delegate": "0x1fc44b223808f6bf4f6ac55153e4734ed8a35ce4",
+            "proxy_type": "Balances",
+            "delay": 0
+        },
+        {
+            "delegate": "0x2f5172949852fe9f8f2e8aeca4fae8f96fab1b42",
+            "proxy_type": "CancelProxy",
+            "delay": 0
+        },
+        {
+            "delegate": "0x77e047f48af63907d2e640d51df9f6c69155ec11",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x9ce5d24eb62e5c53d2ee9b04b63945d375de6054",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        },
+        {
+            "delegate": "0xe87231c2389889bcce432a7738a99f3d3c5f229e",
+            "proxy_type": "Governance",
+            "delay": 0
+        },
+        {
+            "delegate": "0xfa43f09559e9e1e761a6a5fb02848d4ba6a1a2f9",
+            "proxy_type": "Governance",
+            "delay": 0
+        }
+    ],
+    "0xde7999b63df67a9ca6d8d5dabcccc041d871b59c": [
+        {
+            "delegate": "0x4782b2df0a76009ad6b9c570fe26a91f7ebeefdc",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        },
+        {
+            "delegate": "0x781c07c8025f982429b52ddedaf9dd17a4f5a69a",
+            "proxy_type": "Governance",
+            "delay": 0
+        },
+        {
+            "delegate": "0xbb1e1722513a8fa80f7593617bb0113b1258b7f1",
+            "proxy_type": "Governance",
+            "delay": 0
+        },
+        {
+            "delegate": "0xbb1e1722513a8fa80f7593617bb0113b1258b7f1",
+            "proxy_type": "Balances",
+            "delay": 0
+        }
+    ],
+    "0xc715d57accaf4f583140a3e71164647c37f48845": [
+        {
+            "delegate": "0x14e8ca24e2260a7b47cb923c5333d77cecffa627",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0xe57215534123c30e120a4343b10b70a50b137f0a": [
+        {
+            "delegate": "0x1e22eb6e40973bed2f20ef6d5c5a2dacfb70fe6d",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x8c15a95aba447414afdef388a394f3dea8eb5d84": [
+        {
+            "delegate": "0x9be53bd03867fa6b257fbe5c9ae846925a807987",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        }
+    ],
+    "0xf100126e38ed941ba1918793bcc39d04610a044c": [
+        {
+            "delegate": "0x3fea60081461dcd9a2b55f073e83fd5405c0c940",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0xb3f21a7fdce87468ecad7bca3b1dc1f37a05fd68": [
+        {
+            "delegate": "0x3644186bc90ef54f01ed260f210285e95c18b11c",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        },
+        {
+            "delegate": "0x6916d942fffbb0f0540a49a6c200ea21d086fd23",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        },
+        {
+            "delegate": "0x98528587f4972fccf8d143661d9ba18fae089fa5",
+            "proxy_type": "AuthorMapping",
+            "delay": 0
+        }
+    ],
+    "0x674f9d60c7871e14aad4b785cfb027cca0122978": [
+        {
+            "delegate": "0x3fea60081461dcd9a2b55f073e83fd5405c0c940",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x8fd8f42f31eec945bf59805af1b01d5bf1f9fd69": [
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x9290571cab021c31ed1f8aa246d41185a6b20b0a",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0xc41e1b27f0ca7e49c42648755ff000241f301c71": [
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x5eac16c511e697f963a16109ca78f912c91b54ff",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0x23fdfbe6de53251fe569124dbb986b7800ff6abe": [
+        {
+            "delegate": "0x11d9e17b34a0796867c90c3aa01019d4b389addc",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0xd0e44092357af131a7330eac9752be06d7121d7d",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        }
+    ],
+    "0xf21cdd2f90c4d450bd27e01a3453bf346e6b4958": [
+        {
+            "delegate": "0x23e8a745062874355f391acf4677fc69bdc52626",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x98c5eecffdb6c8ee3c18f6fbd8e498763bb40b83",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xcfbf79a75a35baa595b7e0d376c87fa47f6ef3da",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0x5a97a6f687d7c76d3ea7563a60cc615c6c939d54": [
+        {
+            "delegate": "0x456087a9a2062b249063b128c57ae039fc0a00d9",
+            "proxy_type": "Any",
+            "delay": 28800
+        },
+        {
+            "delegate": "0x4f39541061ea31fc2f598f0bced63a359ae4dc48",
+            "proxy_type": "Any",
+            "delay": 28800
+        }
+    ],
+    "0x74bc20ab68520e5a56e26fdd77526ce723799522": [
+        {
+            "delegate": "0x13855de47b7c990796107cc378e8e3f4b7e22a6e",
+            "proxy_type": "Any",
+            "delay": 0
+        },
+        {
+            "delegate": "0x31631b87218611d5968d036585e18f6a69c921ed",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        }
+    ],
+    "0x8fcbe8efb6a294e37237b603a448268fcd72f97f": [
+        {
+            "delegate": "0x23e8a745062874355f391acf4677fc69bdc52626",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0x98c5eecffdb6c8ee3c18f6fbd8e498763bb40b83",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        }
+    ],
+    "0xc75c5ed8e258ec5b37974bfaa98d45d40dac436c": [
+        {
+            "delegate": "0x2f3ae9923edcd6ba158d584bb5c953f0a6cdec71",
+            "proxy_type": "NonTransfer",
+            "delay": 0
+        },
+        {
+            "delegate": "0x4f85cbe6ac70006165003ec2268c076f7c9d25e3",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0xefb278e0c8efd11b397d846af27a970fe2bf8cb6",
+            "proxy_type": "Any",
+            "delay": 0
+        }
+    ],
+    "0xcd069a82b1fd79cf3132391a677226ad60244b78": [
+        {
+            "delegate": "0x23e8a745062874355f391acf4677fc69bdc52626",
+            "proxy_type": "Staking",
+            "delay": 0
+        },
+        {
+            "delegate": "0x98c5eecffdb6c8ee3c18f6fbd8e498763bb40b83",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ],
+    "0x6444ec0798a022447c0d9d2ec89efce8f541e431": [
+        {
+            "delegate": "0x68a20678c2f0a4ec3e958610ea36e671d2332781",
+            "proxy_type": "Balances",
+            "delay": 0
+        },
+        {
+            "delegate": "0xfcc1cba2e36827b9c0fd24e1489cbcf599edfe90",
+            "proxy_type": "Staking",
+            "delay": 0
+        }
+    ]
+}
